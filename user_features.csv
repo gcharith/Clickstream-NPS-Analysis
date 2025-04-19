@@ -1,0 +1,801 @@
+,user_id,num_of_sessions,num_of_events,avg_duration_per_event,click_button,form_submit,hover,nav_click,scroll,encoded_frequent_page,feedback_text,sentiment,category_nps
+0,u0001,1,9,25.666666666666668,2.0,2.0,0.0,1.0,4.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+1,u0002,1,6,50.333333333333336,2.0,1.0,0.0,3.0,0.0,5,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+2,u0003,1,9,31.444444444444443,1.0,3.0,2.0,2.0,1.0,1,Decent experience but could improve.,0.16666666666666666,passive
+3,u0006,2,16,36.0,3.0,8.0,3.0,1.0,1.0,6,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+4,u0007,2,22,38.5,3.0,0.0,7.0,6.0,6.0,4,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+5,u0008,2,19,27.736842105263158,2.0,3.0,7.0,3.0,4.0,3,"Very smooth, fast, and intuitive!",0.385,promoter
+6,u0009,1,5,37.4,3.0,0.0,0.0,2.0,0.0,4,Decent experience but could improve.,0.16666666666666666,passive
+7,u0010,3,22,35.5,2.0,3.0,6.0,5.0,6.0,5,Decent experience but could improve.,0.16666666666666666,passive
+8,u0011,1,9,24.11111111111111,1.0,1.0,2.0,2.0,3.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+9,u0012,2,15,35.333333333333336,5.0,1.0,2.0,3.0,4.0,3,"Very smooth, fast, and intuitive!",0.385,promoter
+10,u0013,1,8,27.625,3.0,0.0,1.0,2.0,2.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+11,u0014,3,32,31.46875,3.0,5.0,10.0,8.0,6.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+12,u0015,4,54,37.24074074074074,9.0,13.0,13.0,11.0,8.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+13,u0016,1,12,27.666666666666668,1.0,3.0,3.0,2.0,3.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+14,u0017,1,14,25.714285714285715,4.0,1.0,3.0,4.0,2.0,5,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+15,u0018,1,14,38.0,3.0,1.0,5.0,3.0,2.0,6,"Very smooth, fast, and intuitive!",0.385,promoter
+16,u0020,4,42,34.214285714285715,8.0,11.0,7.0,5.0,11.0,6,Decent experience but could improve.,0.16666666666666666,passive
+17,u0023,2,25,32.64,2.0,10.0,5.0,5.0,3.0,3,"Very smooth, fast, and intuitive!",0.385,promoter
+18,u0024,2,23,31.304347826086957,3.0,5.0,5.0,4.0,6.0,4,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+19,u0025,5,42,30.428571428571427,5.0,8.0,6.0,10.0,13.0,6,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+20,u0026,5,49,35.87755102040816,15.0,5.0,9.0,11.0,9.0,1,Decent experience but could improve.,0.16666666666666666,passive
+21,u0027,5,43,34.30232558139535,5.0,7.0,9.0,8.0,14.0,1,Decent experience but could improve.,0.16666666666666666,passive
+22,u0030,1,14,30.0,0.0,5.0,3.0,3.0,3.0,6,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+23,u0031,4,48,32.375,6.0,9.0,15.0,11.0,7.0,2,"Very smooth, fast, and intuitive!",0.385,promoter
+24,u0033,3,25,31.44,5.0,7.0,5.0,5.0,3.0,2,"Very smooth, fast, and intuitive!",0.385,promoter
+25,u0034,2,20,34.6,3.0,2.0,5.0,5.0,5.0,1,Decent experience but could improve.,0.16666666666666666,passive
+26,u0035,5,53,29.32075471698113,10.0,17.0,9.0,8.0,9.0,1,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+27,u0037,5,53,31.264150943396228,15.0,10.0,14.0,6.0,8.0,3,"Very smooth, fast, and intuitive!",0.385,promoter
+28,u0038,4,37,36.37837837837838,6.0,6.0,12.0,9.0,4.0,4,Decent experience but could improve.,0.16666666666666666,passive
+29,u0039,3,42,35.642857142857146,7.0,10.0,8.0,8.0,9.0,1,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+30,u0040,1,9,26.88888888888889,3.0,0.0,3.0,1.0,2.0,6,Decent experience but could improve.,0.16666666666666666,passive
+31,u0041,1,12,38.916666666666664,4.0,2.0,1.0,4.0,1.0,6,Decent experience but could improve.,0.16666666666666666,passive
+32,u0042,1,6,40.666666666666664,4.0,2.0,0.0,0.0,0.0,3,Decent experience but could improve.,0.16666666666666666,passive
+33,u0043,1,5,41.0,2.0,2.0,1.0,0.0,0.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+34,u0044,4,42,31.952380952380953,5.0,4.0,14.0,8.0,11.0,4,Decent experience but could improve.,0.16666666666666666,passive
+35,u0046,3,30,37.2,4.0,8.0,4.0,3.0,11.0,3,"Very smooth, fast, and intuitive!",0.385,promoter
+36,u0047,1,9,29.333333333333332,2.0,1.0,3.0,1.0,2.0,4,"Very smooth, fast, and intuitive!",0.385,promoter
+37,u0048,4,37,31.864864864864863,7.0,7.0,2.0,9.0,12.0,1,Decent experience but could improve.,0.16666666666666666,passive
+38,u0049,3,30,32.333333333333336,6.0,4.0,6.0,8.0,6.0,4,Decent experience but could improve.,0.16666666666666666,passive
+39,u0050,1,12,37.25,1.0,0.0,3.0,4.0,4.0,4,"Very smooth, fast, and intuitive!",0.385,promoter
+40,u0053,4,32,27.875,5.0,5.0,6.0,9.0,7.0,4,Decent experience but could improve.,0.16666666666666666,passive
+41,u0054,5,48,32.6875,13.0,8.0,13.0,7.0,7.0,6,Decent experience but could improve.,0.16666666666666666,passive
+42,u0055,5,47,31.04255319148936,7.0,9.0,9.0,11.0,11.0,5,Decent experience but could improve.,0.16666666666666666,passive
+43,u0056,3,30,34.46666666666667,7.0,4.0,5.0,6.0,8.0,4,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+44,u0057,1,14,45.07142857142857,0.0,5.0,4.0,4.0,1.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+45,u0059,2,18,30.666666666666668,3.0,3.0,1.0,7.0,4.0,1,Decent experience but could improve.,0.16666666666666666,passive
+46,u0061,1,8,30.125,2.0,1.0,1.0,2.0,2.0,5,"Very smooth, fast, and intuitive!",0.385,promoter
+47,u0062,5,51,33.86274509803921,7.0,13.0,9.0,10.0,12.0,4,Decent experience but could improve.,0.16666666666666666,passive
+48,u0063,3,16,31.0625,4.0,4.0,2.0,4.0,2.0,0,"Very smooth, fast, and intuitive!",0.385,promoter
+49,u0065,4,50,33.1,13.0,11.0,8.0,9.0,9.0,0,"Very smooth, fast, and intuitive!",0.385,promoter
+50,u0066,5,64,25.453125,15.0,15.0,15.0,11.0,8.0,4,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+51,u0067,3,27,30.0,5.0,3.0,6.0,9.0,4.0,5,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+52,u0068,3,23,33.130434782608695,5.0,2.0,8.0,5.0,3.0,1,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+53,u0069,1,12,37.083333333333336,2.0,5.0,4.0,1.0,0.0,5,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+54,u0071,5,48,33.166666666666664,12.0,7.0,11.0,10.0,8.0,4,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+55,u0072,2,26,33.88461538461539,4.0,6.0,8.0,5.0,3.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+56,u0073,4,32,33.3125,8.0,8.0,10.0,2.0,4.0,4,Decent experience but could improve.,0.16666666666666666,passive
+57,u0074,3,35,31.885714285714286,7.0,8.0,8.0,5.0,7.0,6,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+58,u0076,4,35,34.8,5.0,7.0,7.0,11.0,5.0,4,"Very smooth, fast, and intuitive!",0.385,promoter
+59,u0077,2,20,36.9,3.0,4.0,4.0,6.0,3.0,6,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+60,u0078,3,37,30.054054054054053,11.0,7.0,11.0,3.0,5.0,5,"Very smooth, fast, and intuitive!",0.385,promoter
+61,u0079,2,27,30.814814814814813,4.0,4.0,9.0,4.0,6.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+62,u0080,1,7,29.428571428571427,2.0,0.0,3.0,1.0,1.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+63,u0082,5,42,30.904761904761905,7.0,11.0,13.0,2.0,9.0,5,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+64,u0083,2,21,23.38095238095238,6.0,0.0,6.0,4.0,5.0,0,Decent experience but could improve.,0.16666666666666666,passive
+65,u0084,3,32,35.5625,9.0,4.0,3.0,7.0,9.0,6,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+66,u0085,1,15,33.266666666666666,1.0,2.0,2.0,2.0,8.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+67,u0086,3,34,31.08823529411765,10.0,5.0,5.0,8.0,6.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+68,u0087,4,50,27.2,7.0,11.0,9.0,14.0,9.0,6,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+69,u0088,1,9,35.0,1.0,0.0,3.0,1.0,4.0,0,Decent experience but could improve.,0.16666666666666666,passive
+70,u0089,3,40,31.65,7.0,6.0,8.0,10.0,9.0,0,Decent experience but could improve.,0.16666666666666666,passive
+71,u0090,4,32,35.125,9.0,3.0,6.0,8.0,6.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+72,u0091,3,21,32.714285714285715,4.0,4.0,2.0,8.0,3.0,1,Decent experience but could improve.,0.16666666666666666,passive
+73,u0092,5,52,31.23076923076923,7.0,10.0,17.0,10.0,8.0,0,Decent experience but could improve.,0.16666666666666666,passive
+74,u0093,1,12,33.833333333333336,0.0,2.0,3.0,3.0,4.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+75,u0094,2,21,33.476190476190474,2.0,7.0,6.0,3.0,3.0,1,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+76,u0095,2,17,33.64705882352941,4.0,3.0,4.0,5.0,1.0,2,"Very smooth, fast, and intuitive!",0.385,promoter
+77,u0096,2,24,35.125,5.0,0.0,8.0,3.0,8.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+78,u0098,4,37,26.2972972972973,3.0,12.0,9.0,7.0,6.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+79,u0099,4,47,30.06382978723404,11.0,9.0,7.0,9.0,11.0,3,Decent experience but could improve.,0.16666666666666666,passive
+80,u0100,5,35,26.714285714285715,9.0,8.0,6.0,6.0,6.0,1,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+81,u0101,1,12,36.0,2.0,1.0,4.0,3.0,2.0,5,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+82,u0102,1,13,27.076923076923077,3.0,2.0,1.0,5.0,2.0,0,Decent experience but could improve.,0.16666666666666666,passive
+83,u0104,4,43,31.53488372093023,11.0,10.0,8.0,7.0,7.0,5,Decent experience but could improve.,0.16666666666666666,passive
+84,u0105,2,17,29.705882352941178,5.0,2.0,5.0,4.0,1.0,0,Decent experience but could improve.,0.16666666666666666,passive
+85,u0106,4,49,32.3469387755102,5.0,10.0,17.0,7.0,10.0,5,Decent experience but could improve.,0.16666666666666666,passive
+86,u0107,1,5,28.8,0.0,2.0,1.0,2.0,0.0,5,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+87,u0108,1,6,38.166666666666664,2.0,1.0,1.0,1.0,1.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+88,u0109,1,6,33.5,0.0,2.0,2.0,0.0,2.0,1,"Very smooth, fast, and intuitive!",0.385,promoter
+89,u0110,1,13,25.846153846153847,0.0,3.0,2.0,4.0,4.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+90,u0113,4,49,29.040816326530614,12.0,12.0,13.0,4.0,8.0,5,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+91,u0114,4,43,30.651162790697676,7.0,10.0,9.0,9.0,8.0,2,"Very smooth, fast, and intuitive!",0.385,promoter
+92,u0115,2,25,31.4,8.0,4.0,6.0,1.0,6.0,5,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+93,u0116,4,37,35.7027027027027,10.0,7.0,10.0,5.0,5.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+94,u0118,4,48,33.4375,8.0,6.0,11.0,12.0,11.0,5,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+95,u0119,5,54,31.796296296296298,6.0,10.0,17.0,10.0,11.0,5,Decent experience but could improve.,0.16666666666666666,passive
+96,u0120,2,12,35.166666666666664,3.0,2.0,1.0,4.0,2.0,3,"Very smooth, fast, and intuitive!",0.385,promoter
+97,u0121,3,27,34.592592592592595,5.0,6.0,7.0,6.0,3.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+98,u0122,4,41,34.609756097560975,4.0,13.0,7.0,5.0,12.0,1,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+99,u0123,3,28,38.32142857142857,6.0,6.0,5.0,9.0,2.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+100,u0124,4,35,33.2,6.0,12.0,6.0,5.0,6.0,1,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+101,u0125,4,34,33.38235294117647,10.0,8.0,10.0,3.0,3.0,4,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+102,u0126,4,36,29.13888888888889,4.0,11.0,11.0,4.0,6.0,5,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+103,u0127,2,17,36.11764705882353,2.0,3.0,4.0,4.0,4.0,2,Decent experience but could improve.,0.16666666666666666,passive
+104,u0128,3,31,28.06451612903226,7.0,6.0,6.0,7.0,5.0,4,Decent experience but could improve.,0.16666666666666666,passive
+105,u0129,3,40,32.125,8.0,8.0,5.0,7.0,12.0,6,Decent experience but could improve.,0.16666666666666666,passive
+106,u0130,2,16,31.8125,0.0,6.0,2.0,4.0,4.0,4,Decent experience but could improve.,0.16666666666666666,passive
+107,u0131,3,35,39.42857142857143,11.0,6.0,6.0,4.0,8.0,4,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+108,u0132,4,35,29.0,4.0,10.0,10.0,8.0,3.0,4,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+109,u0133,3,36,35.416666666666664,9.0,5.0,5.0,9.0,8.0,6,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+110,u0134,4,37,32.108108108108105,5.0,8.0,7.0,3.0,14.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+111,u0135,3,33,34.72727272727273,7.0,9.0,5.0,3.0,9.0,4,Decent experience but could improve.,0.16666666666666666,passive
+112,u0137,5,63,31.238095238095237,16.0,14.0,12.0,13.0,8.0,4,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+113,u0138,3,25,33.48,5.0,3.0,7.0,6.0,4.0,1,Decent experience but could improve.,0.16666666666666666,passive
+114,u0139,5,53,29.132075471698112,7.0,10.0,11.0,18.0,7.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+115,u0140,5,42,32.404761904761905,14.0,8.0,5.0,9.0,6.0,2,Decent experience but could improve.,0.16666666666666666,passive
+116,u0141,4,36,31.25,6.0,7.0,6.0,13.0,4.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+117,u0142,4,33,34.24242424242424,6.0,8.0,9.0,6.0,4.0,5,Decent experience but could improve.,0.16666666666666666,passive
+118,u0143,3,36,31.72222222222222,5.0,6.0,5.0,12.0,8.0,3,Decent experience but could improve.,0.16666666666666666,passive
+119,u0144,3,28,29.035714285714285,7.0,8.0,5.0,5.0,3.0,3,Decent experience but could improve.,0.16666666666666666,passive
+120,u0145,5,63,33.79365079365079,8.0,13.0,19.0,14.0,9.0,3,Decent experience but could improve.,0.16666666666666666,passive
+121,u0146,4,43,29.627906976744185,4.0,7.0,11.0,10.0,11.0,6,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+122,u0147,3,41,31.926829268292682,12.0,9.0,6.0,5.0,9.0,1,Decent experience but could improve.,0.16666666666666666,passive
+123,u0148,4,32,28.1875,7.0,6.0,8.0,6.0,5.0,5,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+124,u0149,1,7,36.142857142857146,0.0,1.0,4.0,0.0,2.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+125,u0150,4,38,27.0,6.0,8.0,9.0,8.0,7.0,0,Decent experience but could improve.,0.16666666666666666,passive
+126,u0151,5,57,30.36842105263158,7.0,14.0,13.0,11.0,12.0,2,Decent experience but could improve.,0.16666666666666666,passive
+127,u0152,4,29,30.724137931034484,5.0,8.0,2.0,6.0,8.0,0,"Very smooth, fast, and intuitive!",0.385,promoter
+128,u0153,5,49,29.53061224489796,14.0,13.0,11.0,3.0,8.0,4,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+129,u0154,5,42,34.26190476190476,7.0,7.0,9.0,9.0,10.0,2,Decent experience but could improve.,0.16666666666666666,passive
+130,u0155,1,8,36.5,1.0,2.0,1.0,2.0,2.0,0,Decent experience but could improve.,0.16666666666666666,passive
+131,u0156,2,21,29.142857142857142,5.0,4.0,2.0,4.0,6.0,0,"Very smooth, fast, and intuitive!",0.385,promoter
+132,u0157,3,29,29.724137931034484,4.0,2.0,7.0,7.0,9.0,1,Decent experience but could improve.,0.16666666666666666,passive
+133,u0158,1,13,26.53846153846154,3.0,3.0,1.0,4.0,2.0,4,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+134,u0159,1,13,34.23076923076923,0.0,3.0,3.0,1.0,6.0,4,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+135,u0160,4,43,35.58139534883721,5.0,11.0,7.0,11.0,9.0,4,"Very smooth, fast, and intuitive!",0.385,promoter
+136,u0161,5,54,34.333333333333336,11.0,12.0,11.0,11.0,9.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+137,u0162,3,33,29.303030303030305,5.0,2.0,7.0,7.0,12.0,4,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+138,u0163,3,33,30.242424242424242,10.0,5.0,7.0,4.0,7.0,3,"Very smooth, fast, and intuitive!",0.385,promoter
+139,u0164,5,53,32.45283018867924,9.0,5.0,12.0,10.0,17.0,5,Decent experience but could improve.,0.16666666666666666,passive
+140,u0165,5,52,30.96153846153846,6.0,13.0,9.0,10.0,14.0,4,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+141,u0166,4,48,32.0,10.0,8.0,9.0,10.0,11.0,1,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+142,u0167,4,48,31.770833333333332,10.0,7.0,5.0,13.0,13.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+143,u0169,3,24,27.125,12.0,3.0,4.0,2.0,3.0,3,"Very smooth, fast, and intuitive!",0.385,promoter
+144,u0171,1,7,39.42857142857143,1.0,0.0,2.0,1.0,3.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+145,u0172,1,8,36.5,1.0,1.0,2.0,2.0,2.0,1,"Very smooth, fast, and intuitive!",0.385,promoter
+146,u0173,1,12,27.583333333333332,3.0,2.0,1.0,2.0,4.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+147,u0174,5,49,32.775510204081634,12.0,8.0,9.0,10.0,10.0,5,"Very smooth, fast, and intuitive!",0.385,promoter
+148,u0175,5,53,33.0377358490566,12.0,9.0,11.0,9.0,12.0,6,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+149,u0177,2,25,32.52,5.0,6.0,7.0,5.0,2.0,5,Decent experience but could improve.,0.16666666666666666,passive
+150,u0179,4,40,33.3,9.0,8.0,11.0,3.0,9.0,1,"Very smooth, fast, and intuitive!",0.385,promoter
+151,u0180,3,22,32.04545454545455,8.0,2.0,4.0,5.0,3.0,1,"Very smooth, fast, and intuitive!",0.385,promoter
+152,u0182,1,7,31.428571428571427,4.0,1.0,2.0,0.0,0.0,1,Decent experience but could improve.,0.16666666666666666,passive
+153,u0183,2,12,29.833333333333332,3.0,3.0,1.0,2.0,3.0,3,"Very smooth, fast, and intuitive!",0.385,promoter
+154,u0184,1,14,33.357142857142854,2.0,3.0,1.0,3.0,5.0,3,"Very smooth, fast, and intuitive!",0.385,promoter
+155,u0185,3,25,32.2,6.0,6.0,3.0,8.0,2.0,6,"Very smooth, fast, and intuitive!",0.385,promoter
+156,u0186,4,29,32.0,5.0,4.0,4.0,6.0,10.0,5,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+157,u0187,3,26,33.53846153846154,6.0,4.0,6.0,4.0,6.0,4,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+158,u0188,3,36,31.305555555555557,4.0,10.0,6.0,10.0,6.0,0,"Very smooth, fast, and intuitive!",0.385,promoter
+159,u0190,5,45,35.55555555555556,10.0,4.0,9.0,12.0,10.0,1,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+160,u0191,4,34,32.61764705882353,12.0,3.0,9.0,6.0,4.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+161,u0192,1,7,27.142857142857142,1.0,3.0,1.0,1.0,1.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+162,u0193,3,32,31.9375,6.0,6.0,4.0,4.0,12.0,6,"Very smooth, fast, and intuitive!",0.385,promoter
+163,u0195,5,34,27.88235294117647,4.0,10.0,6.0,11.0,3.0,1,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+164,u0196,2,27,29.074074074074073,7.0,5.0,6.0,4.0,5.0,2,"Very smooth, fast, and intuitive!",0.385,promoter
+165,u0197,2,16,30.1875,1.0,5.0,4.0,5.0,1.0,5,Decent experience but could improve.,0.16666666666666666,passive
+166,u0198,2,23,26.26086956521739,6.0,3.0,3.0,5.0,6.0,2,"Very smooth, fast, and intuitive!",0.385,promoter
+167,u0200,1,10,37.4,2.0,1.0,2.0,2.0,3.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+168,u0201,1,12,32.583333333333336,4.0,2.0,2.0,1.0,3.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+169,u0202,4,45,27.733333333333334,5.0,14.0,6.0,6.0,14.0,5,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+170,u0203,4,33,24.03030303030303,5.0,9.0,3.0,9.0,7.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+171,u0204,4,46,32.0,6.0,11.0,7.0,8.0,14.0,5,Decent experience but could improve.,0.16666666666666666,passive
+172,u0205,3,28,33.75,9.0,3.0,3.0,5.0,8.0,4,"Very smooth, fast, and intuitive!",0.385,promoter
+173,u0206,3,42,27.714285714285715,7.0,13.0,8.0,10.0,4.0,4,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+174,u0207,5,44,27.886363636363637,6.0,10.0,9.0,11.0,8.0,3,Decent experience but could improve.,0.16666666666666666,passive
+175,u0208,1,12,23.666666666666668,4.0,4.0,2.0,2.0,0.0,0,Decent experience but could improve.,0.16666666666666666,passive
+176,u0209,1,9,28.77777777777778,3.0,2.0,2.0,2.0,0.0,1,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+177,u0210,5,46,31.26086956521739,8.0,8.0,7.0,9.0,14.0,3,Decent experience but could improve.,0.16666666666666666,passive
+178,u0211,3,27,22.11111111111111,4.0,8.0,5.0,5.0,5.0,6,Decent experience but could improve.,0.16666666666666666,passive
+179,u0213,2,15,36.333333333333336,1.0,3.0,5.0,4.0,2.0,6,"Very smooth, fast, and intuitive!",0.385,promoter
+180,u0214,3,43,33.53488372093023,12.0,2.0,9.0,10.0,10.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+181,u0216,2,15,33.93333333333333,5.0,4.0,1.0,2.0,3.0,0,"Very smooth, fast, and intuitive!",0.385,promoter
+182,u0217,5,60,35.11666666666667,15.0,10.0,7.0,17.0,11.0,0,Decent experience but could improve.,0.16666666666666666,passive
+183,u0218,1,7,35.714285714285715,4.0,1.0,1.0,1.0,0.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+184,u0220,1,11,40.09090909090909,1.0,3.0,0.0,5.0,2.0,0,Decent experience but could improve.,0.16666666666666666,passive
+185,u0221,5,46,33.5,8.0,8.0,11.0,13.0,6.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+186,u0222,2,20,33.6,6.0,6.0,4.0,3.0,1.0,0,Decent experience but could improve.,0.16666666666666666,passive
+187,u0223,2,18,33.27777777777778,2.0,6.0,5.0,4.0,1.0,0,Decent experience but could improve.,0.16666666666666666,passive
+188,u0224,2,27,34.333333333333336,3.0,10.0,4.0,4.0,6.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+189,u0225,1,8,32.75,2.0,2.0,2.0,1.0,1.0,4,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+190,u0226,3,33,37.63636363636363,3.0,4.0,10.0,8.0,8.0,2,"Very smooth, fast, and intuitive!",0.385,promoter
+191,u0227,5,53,30.660377358490567,16.0,14.0,7.0,8.0,8.0,2,"Very smooth, fast, and intuitive!",0.385,promoter
+192,u0228,5,47,33.97872340425532,8.0,6.0,10.0,8.0,15.0,1,Decent experience but could improve.,0.16666666666666666,passive
+193,u0229,5,39,32.02564102564103,7.0,12.0,7.0,7.0,6.0,4,Decent experience but could improve.,0.16666666666666666,passive
+194,u0230,5,58,32.689655172413794,19.0,7.0,11.0,12.0,9.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+195,u0231,3,21,29.714285714285715,4.0,5.0,6.0,2.0,4.0,6,Decent experience but could improve.,0.16666666666666666,passive
+196,u0233,2,23,34.78260869565217,3.0,3.0,10.0,5.0,2.0,1,Decent experience but could improve.,0.16666666666666666,passive
+197,u0234,4,38,29.236842105263158,6.0,9.0,6.0,8.0,9.0,1,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+198,u0235,5,50,32.48,10.0,10.0,9.0,9.0,12.0,6,Decent experience but could improve.,0.16666666666666666,passive
+199,u0236,5,45,34.06666666666667,9.0,8.0,9.0,9.0,10.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+200,u0237,2,12,30.083333333333332,1.0,3.0,5.0,2.0,1.0,0,Decent experience but could improve.,0.16666666666666666,passive
+201,u0241,2,17,33.64705882352941,1.0,3.0,6.0,2.0,5.0,6,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+202,u0242,3,27,28.185185185185187,11.0,1.0,3.0,6.0,6.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+203,u0243,3,27,33.148148148148145,3.0,2.0,6.0,8.0,8.0,6,"Very smooth, fast, and intuitive!",0.385,promoter
+204,u0244,4,36,33.388888888888886,7.0,5.0,5.0,11.0,8.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+205,u0247,4,30,25.633333333333333,7.0,5.0,1.0,8.0,9.0,6,Decent experience but could improve.,0.16666666666666666,passive
+206,u0248,3,40,30.45,9.0,9.0,6.0,6.0,10.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+207,u0249,1,9,36.333333333333336,1.0,2.0,2.0,1.0,3.0,2,"Very smooth, fast, and intuitive!",0.385,promoter
+208,u0250,3,27,33.888888888888886,4.0,6.0,6.0,6.0,5.0,6,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+209,u0251,3,25,35.24,5.0,3.0,6.0,9.0,2.0,6,"Very smooth, fast, and intuitive!",0.385,promoter
+210,u0252,2,21,32.57142857142857,5.0,7.0,3.0,2.0,4.0,0,Decent experience but could improve.,0.16666666666666666,passive
+211,u0253,1,15,27.733333333333334,0.0,2.0,6.0,4.0,3.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+212,u0254,5,61,34.57377049180328,11.0,9.0,15.0,20.0,6.0,6,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+213,u0255,1,15,31.6,7.0,4.0,0.0,0.0,4.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+214,u0256,1,10,38.0,1.0,2.0,3.0,0.0,4.0,0,Decent experience but could improve.,0.16666666666666666,passive
+215,u0257,5,47,27.170212765957448,10.0,13.0,12.0,8.0,4.0,4,Decent experience but could improve.,0.16666666666666666,passive
+216,u0258,2,22,35.81818181818182,6.0,2.0,3.0,6.0,5.0,0,Decent experience but could improve.,0.16666666666666666,passive
+217,u0259,2,13,30.307692307692307,1.0,2.0,1.0,5.0,4.0,0,"Very smooth, fast, and intuitive!",0.385,promoter
+218,u0260,5,50,32.26,10.0,8.0,9.0,9.0,14.0,5,Decent experience but could improve.,0.16666666666666666,passive
+219,u0262,4,40,30.45,6.0,12.0,8.0,9.0,5.0,4,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+220,u0263,3,31,34.516129032258064,0.0,9.0,11.0,6.0,5.0,1,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+221,u0264,3,39,31.641025641025642,10.0,9.0,5.0,12.0,3.0,4,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+222,u0265,4,49,31.775510204081634,11.0,7.0,12.0,15.0,4.0,0,Decent experience but could improve.,0.16666666666666666,passive
+223,u0266,5,49,34.40816326530612,10.0,10.0,14.0,9.0,6.0,5,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+224,u0268,1,13,23.76923076923077,1.0,2.0,4.0,1.0,5.0,6,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+225,u0269,5,52,33.5,8.0,9.0,10.0,12.0,13.0,5,Decent experience but could improve.,0.16666666666666666,passive
+226,u0270,1,10,34.9,2.0,5.0,1.0,2.0,0.0,0,Decent experience but could improve.,0.16666666666666666,passive
+227,u0272,2,17,30.823529411764707,3.0,2.0,5.0,4.0,3.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+228,u0273,5,43,34.7906976744186,9.0,9.0,9.0,10.0,6.0,2,"Very smooth, fast, and intuitive!",0.385,promoter
+229,u0274,3,33,35.90909090909091,7.0,3.0,3.0,10.0,10.0,6,Decent experience but could improve.,0.16666666666666666,passive
+230,u0276,4,40,30.7,6.0,6.0,6.0,10.0,12.0,2,Decent experience but could improve.,0.16666666666666666,passive
+231,u0277,1,12,39.75,2.0,1.0,1.0,5.0,3.0,6,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+232,u0278,5,48,34.104166666666664,7.0,12.0,10.0,7.0,12.0,2,Decent experience but could improve.,0.16666666666666666,passive
+233,u0279,2,16,37.5,2.0,5.0,4.0,3.0,2.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+234,u0280,3,37,36.08108108108108,9.0,9.0,6.0,6.0,7.0,4,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+235,u0281,1,12,29.333333333333332,4.0,3.0,1.0,2.0,2.0,0,Decent experience but could improve.,0.16666666666666666,passive
+236,u0283,5,39,31.53846153846154,8.0,11.0,7.0,2.0,11.0,4,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+237,u0284,1,12,30.833333333333332,1.0,3.0,4.0,2.0,2.0,3,"Very smooth, fast, and intuitive!",0.385,promoter
+238,u0286,4,44,34.75,15.0,5.0,9.0,6.0,9.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+239,u0289,2,20,29.6,9.0,5.0,1.0,4.0,1.0,6,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+240,u0290,3,26,33.03846153846154,5.0,2.0,8.0,5.0,6.0,2,"Very smooth, fast, and intuitive!",0.385,promoter
+241,u0291,3,38,30.63157894736842,8.0,8.0,8.0,6.0,8.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+242,u0292,4,49,31.3265306122449,14.0,10.0,11.0,7.0,7.0,1,Decent experience but could improve.,0.16666666666666666,passive
+243,u0293,1,6,42.833333333333336,3.0,2.0,0.0,0.0,1.0,6,"Very smooth, fast, and intuitive!",0.385,promoter
+244,u0294,1,10,32.5,3.0,2.0,1.0,3.0,1.0,4,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+245,u0295,4,38,27.657894736842106,11.0,8.0,7.0,5.0,7.0,0,Decent experience but could improve.,0.16666666666666666,passive
+246,u0296,1,15,34.333333333333336,4.0,5.0,3.0,2.0,1.0,4,"Very smooth, fast, and intuitive!",0.385,promoter
+247,u0297,5,51,32.3921568627451,13.0,10.0,4.0,10.0,14.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+248,u0298,3,20,37.2,5.0,5.0,5.0,2.0,3.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+249,u0299,1,15,36.13333333333333,3.0,2.0,3.0,6.0,1.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+250,u0300,4,32,30.34375,7.0,6.0,5.0,6.0,8.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+251,u0301,2,14,37.714285714285715,3.0,2.0,2.0,4.0,3.0,6,"Very smooth, fast, and intuitive!",0.385,promoter
+252,u0302,1,7,36.142857142857146,1.0,0.0,2.0,1.0,3.0,5,"Very smooth, fast, and intuitive!",0.385,promoter
+253,u0303,5,55,35.527272727272724,8.0,13.0,12.0,8.0,14.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+254,u0304,5,36,31.02777777777778,5.0,8.0,8.0,10.0,5.0,6,Decent experience but could improve.,0.16666666666666666,passive
+255,u0305,2,20,34.05,7.0,3.0,7.0,3.0,0.0,1,Decent experience but could improve.,0.16666666666666666,passive
+256,u0306,5,45,30.755555555555556,9.0,7.0,12.0,5.0,12.0,2,Decent experience but could improve.,0.16666666666666666,passive
+257,u0308,2,15,37.2,1.0,3.0,6.0,3.0,2.0,6,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+258,u0309,1,9,28.88888888888889,2.0,3.0,2.0,1.0,1.0,5,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+259,u0310,3,23,32.69565217391305,1.0,3.0,3.0,6.0,10.0,2,Decent experience but could improve.,0.16666666666666666,passive
+260,u0311,1,7,35.857142857142854,0.0,2.0,3.0,1.0,1.0,5,Decent experience but could improve.,0.16666666666666666,passive
+261,u0312,3,28,33.32142857142857,6.0,6.0,6.0,5.0,5.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+262,u0313,3,24,30.208333333333332,3.0,3.0,8.0,4.0,6.0,1,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+263,u0314,2,27,32.333333333333336,5.0,5.0,6.0,7.0,4.0,6,"Very smooth, fast, and intuitive!",0.385,promoter
+264,u0315,1,8,40.0,2.0,1.0,2.0,0.0,3.0,1,"Very smooth, fast, and intuitive!",0.385,promoter
+265,u0316,2,21,29.857142857142858,3.0,5.0,4.0,4.0,5.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+266,u0318,4,43,33.83720930232558,4.0,10.0,12.0,7.0,10.0,1,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+267,u0319,1,12,36.75,1.0,4.0,2.0,2.0,3.0,0,Decent experience but could improve.,0.16666666666666666,passive
+268,u0321,5,49,33.06122448979592,11.0,10.0,11.0,8.0,9.0,5,"Very smooth, fast, and intuitive!",0.385,promoter
+269,u0323,1,12,39.583333333333336,3.0,5.0,2.0,1.0,1.0,1,Decent experience but could improve.,0.16666666666666666,passive
+270,u0324,2,15,32.666666666666664,1.0,3.0,2.0,3.0,6.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+271,u0325,1,15,35.266666666666666,0.0,5.0,3.0,3.0,4.0,0,Decent experience but could improve.,0.16666666666666666,passive
+272,u0326,3,30,34.1,4.0,4.0,8.0,7.0,7.0,0,Decent experience but could improve.,0.16666666666666666,passive
+273,u0327,3,36,29.416666666666668,13.0,12.0,5.0,4.0,2.0,0,Decent experience but could improve.,0.16666666666666666,passive
+274,u0330,3,24,30.833333333333332,5.0,2.0,5.0,7.0,5.0,4,"Very smooth, fast, and intuitive!",0.385,promoter
+275,u0331,4,41,32.292682926829265,6.0,12.0,4.0,11.0,8.0,0,Decent experience but could improve.,0.16666666666666666,passive
+276,u0332,2,19,29.526315789473685,2.0,2.0,8.0,3.0,4.0,1,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+277,u0333,4,35,32.6,6.0,8.0,8.0,4.0,9.0,1,Decent experience but could improve.,0.16666666666666666,passive
+278,u0335,4,38,34.10526315789474,4.0,8.0,9.0,8.0,9.0,2,Decent experience but could improve.,0.16666666666666666,passive
+279,u0336,1,8,24.75,1.0,1.0,1.0,3.0,2.0,1,Decent experience but could improve.,0.16666666666666666,passive
+280,u0337,3,27,29.62962962962963,4.0,4.0,8.0,4.0,7.0,1,Decent experience but could improve.,0.16666666666666666,passive
+281,u0338,2,24,35.375,7.0,5.0,4.0,3.0,5.0,4,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+282,u0339,1,15,25.2,6.0,2.0,2.0,3.0,2.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+283,u0340,5,52,35.05769230769231,9.0,15.0,8.0,7.0,13.0,6,Decent experience but could improve.,0.16666666666666666,passive
+284,u0342,1,12,36.666666666666664,3.0,3.0,3.0,1.0,2.0,0,Decent experience but could improve.,0.16666666666666666,passive
+285,u0343,3,36,33.416666666666664,8.0,5.0,8.0,5.0,10.0,1,Decent experience but could improve.,0.16666666666666666,passive
+286,u0344,3,31,33.516129032258064,8.0,7.0,5.0,8.0,3.0,1,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+287,u0345,4,36,32.861111111111114,9.0,4.0,10.0,9.0,4.0,1,Decent experience but could improve.,0.16666666666666666,passive
+288,u0347,2,21,32.23809523809524,4.0,5.0,3.0,4.0,5.0,5,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+289,u0348,3,19,27.210526315789473,2.0,5.0,5.0,3.0,4.0,1,Decent experience but could improve.,0.16666666666666666,passive
+290,u0349,2,26,30.5,8.0,6.0,1.0,2.0,9.0,4,"Very smooth, fast, and intuitive!",0.385,promoter
+291,u0350,5,47,32.212765957446805,11.0,9.0,9.0,8.0,10.0,5,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+292,u0351,4,47,36.02127659574468,12.0,7.0,9.0,11.0,8.0,1,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+293,u0352,1,12,39.333333333333336,1.0,6.0,1.0,2.0,2.0,5,Decent experience but could improve.,0.16666666666666666,passive
+294,u0355,1,9,35.0,3.0,3.0,1.0,2.0,0.0,2,"Very smooth, fast, and intuitive!",0.385,promoter
+295,u0356,5,53,32.056603773584904,12.0,11.0,12.0,8.0,10.0,4,"Very smooth, fast, and intuitive!",0.385,promoter
+296,u0358,4,44,29.613636363636363,5.0,10.0,13.0,8.0,8.0,6,"Very smooth, fast, and intuitive!",0.385,promoter
+297,u0359,2,24,32.791666666666664,4.0,7.0,6.0,5.0,2.0,3,Decent experience but could improve.,0.16666666666666666,passive
+298,u0360,3,35,26.8,3.0,5.0,9.0,8.0,10.0,0,Decent experience but could improve.,0.16666666666666666,passive
+299,u0361,3,35,29.2,5.0,7.0,3.0,9.0,11.0,0,Decent experience but could improve.,0.16666666666666666,passive
+300,u0362,5,46,32.56521739130435,10.0,9.0,15.0,4.0,8.0,2,Decent experience but could improve.,0.16666666666666666,passive
+301,u0363,5,49,28.020408163265305,9.0,13.0,9.0,7.0,11.0,1,"Very smooth, fast, and intuitive!",0.385,promoter
+302,u0364,4,36,27.916666666666668,7.0,10.0,9.0,5.0,5.0,1,"Very smooth, fast, and intuitive!",0.385,promoter
+303,u0365,1,5,30.6,0.0,1.0,2.0,2.0,0.0,1,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+304,u0366,1,12,32.0,4.0,2.0,2.0,1.0,3.0,1,"Very smooth, fast, and intuitive!",0.385,promoter
+305,u0367,1,7,34.714285714285715,1.0,1.0,2.0,2.0,1.0,4,Decent experience but could improve.,0.16666666666666666,passive
+306,u0369,2,19,24.157894736842106,3.0,2.0,4.0,4.0,6.0,1,"Very smooth, fast, and intuitive!",0.385,promoter
+307,u0370,3,28,34.0,6.0,6.0,3.0,7.0,6.0,5,"Very smooth, fast, and intuitive!",0.385,promoter
+308,u0371,4,39,31.615384615384617,9.0,6.0,6.0,12.0,6.0,1,Decent experience but could improve.,0.16666666666666666,passive
+309,u0372,5,40,28.875,10.0,7.0,10.0,9.0,4.0,3,"Very smooth, fast, and intuitive!",0.385,promoter
+310,u0374,5,47,33.170212765957444,5.0,15.0,9.0,8.0,10.0,6,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+311,u0375,5,57,28.842105263157894,9.0,11.0,12.0,11.0,14.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+312,u0376,3,31,34.516129032258064,5.0,8.0,7.0,9.0,2.0,5,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+313,u0378,2,25,28.36,1.0,5.0,9.0,6.0,4.0,6,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+314,u0379,2,21,28.61904761904762,3.0,4.0,6.0,3.0,5.0,1,"Very smooth, fast, and intuitive!",0.385,promoter
+315,u0380,2,18,24.944444444444443,5.0,4.0,5.0,3.0,1.0,5,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+316,u0381,4,39,34.53846153846154,4.0,14.0,8.0,8.0,5.0,1,Decent experience but could improve.,0.16666666666666666,passive
+317,u0382,5,47,31.595744680851062,9.0,10.0,10.0,9.0,9.0,5,Decent experience but could improve.,0.16666666666666666,passive
+318,u0384,5,52,33.5,6.0,13.0,10.0,11.0,12.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+319,u0385,2,23,32.91304347826087,2.0,2.0,6.0,6.0,7.0,4,Decent experience but could improve.,0.16666666666666666,passive
+320,u0386,1,7,25.714285714285715,0.0,2.0,0.0,2.0,3.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+321,u0387,5,55,32.90909090909091,15.0,10.0,11.0,10.0,9.0,4,Decent experience but could improve.,0.16666666666666666,passive
+322,u0388,5,48,32.645833333333336,12.0,9.0,4.0,11.0,12.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+323,u0389,2,21,29.523809523809526,1.0,0.0,9.0,4.0,7.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+324,u0390,3,33,31.727272727272727,6.0,7.0,8.0,4.0,8.0,0,Decent experience but could improve.,0.16666666666666666,passive
+325,u0391,5,38,30.18421052631579,8.0,5.0,13.0,5.0,7.0,0,"Very smooth, fast, and intuitive!",0.385,promoter
+326,u0392,5,49,34.224489795918366,12.0,13.0,11.0,6.0,7.0,4,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+327,u0393,1,13,28.53846153846154,4.0,4.0,2.0,2.0,1.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+328,u0394,5,44,34.81818181818182,13.0,6.0,6.0,9.0,10.0,6,"Very smooth, fast, and intuitive!",0.385,promoter
+329,u0395,3,28,34.17857142857143,5.0,4.0,6.0,8.0,5.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+330,u0396,3,35,34.628571428571426,7.0,8.0,9.0,7.0,4.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+331,u0397,5,58,31.79310344827586,13.0,6.0,18.0,11.0,10.0,4,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+332,u0399,4,37,33.37837837837838,2.0,10.0,6.0,10.0,9.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+333,u0400,3,33,34.03030303030303,6.0,7.0,6.0,9.0,5.0,5,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+334,u0401,5,64,35.328125,16.0,12.0,17.0,8.0,11.0,5,Decent experience but could improve.,0.16666666666666666,passive
+335,u0403,5,45,28.57777777777778,10.0,8.0,11.0,9.0,7.0,6,"Very smooth, fast, and intuitive!",0.385,promoter
+336,u0404,2,20,33.2,3.0,5.0,5.0,3.0,4.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+337,u0405,5,69,33.34782608695652,9.0,16.0,17.0,13.0,14.0,3,Decent experience but could improve.,0.16666666666666666,passive
+338,u0406,1,6,37.333333333333336,3.0,2.0,1.0,0.0,0.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+339,u0407,1,9,28.666666666666668,3.0,1.0,0.0,4.0,1.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+340,u0408,1,6,42.0,1.0,2.0,1.0,1.0,1.0,3,Decent experience but could improve.,0.16666666666666666,passive
+341,u0409,3,23,33.26086956521739,5.0,4.0,5.0,6.0,3.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+342,u0410,4,46,32.56521739130435,10.0,12.0,11.0,9.0,4.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+343,u0411,2,28,27.035714285714285,6.0,4.0,3.0,7.0,8.0,3,Decent experience but could improve.,0.16666666666666666,passive
+344,u0412,3,23,34.04347826086956,8.0,5.0,2.0,4.0,4.0,1,Decent experience but could improve.,0.16666666666666666,passive
+345,u0413,1,9,32.888888888888886,1.0,2.0,0.0,2.0,4.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+346,u0414,4,41,28.390243902439025,8.0,6.0,8.0,11.0,8.0,0,Decent experience but could improve.,0.16666666666666666,passive
+347,u0415,3,30,24.366666666666667,6.0,11.0,5.0,2.0,6.0,5,"Very smooth, fast, and intuitive!",0.385,promoter
+348,u0416,4,43,35.325581395348834,5.0,7.0,10.0,10.0,11.0,3,Decent experience but could improve.,0.16666666666666666,passive
+349,u0417,5,51,32.80392156862745,10.0,13.0,14.0,7.0,7.0,0,"Very smooth, fast, and intuitive!",0.385,promoter
+350,u0418,2,15,35.666666666666664,3.0,2.0,3.0,5.0,2.0,5,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+351,u0419,5,48,29.375,10.0,9.0,9.0,12.0,8.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+352,u0420,5,50,36.2,13.0,10.0,14.0,7.0,6.0,0,"Very smooth, fast, and intuitive!",0.385,promoter
+353,u0422,2,23,25.434782608695652,5.0,4.0,5.0,2.0,7.0,4,Decent experience but could improve.,0.16666666666666666,passive
+354,u0423,1,14,25.785714285714285,3.0,8.0,0.0,1.0,2.0,5,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+355,u0424,2,21,30.523809523809526,6.0,3.0,3.0,6.0,3.0,5,"Very smooth, fast, and intuitive!",0.385,promoter
+356,u0428,1,5,34.4,1.0,2.0,2.0,0.0,0.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+357,u0429,3,19,28.526315789473685,4.0,5.0,4.0,1.0,5.0,2,Decent experience but could improve.,0.16666666666666666,passive
+358,u0430,4,36,32.416666666666664,6.0,14.0,4.0,7.0,5.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+359,u0431,4,26,29.384615384615383,3.0,5.0,5.0,3.0,10.0,5,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+360,u0433,2,22,30.181818181818183,5.0,4.0,5.0,3.0,5.0,5,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+361,u0434,1,8,30.125,0.0,4.0,4.0,0.0,0.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+362,u0435,1,7,26.142857142857142,1.0,1.0,3.0,1.0,1.0,0,"Very smooth, fast, and intuitive!",0.385,promoter
+363,u0436,2,19,33.31578947368421,3.0,0.0,8.0,2.0,6.0,4,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+364,u0437,5,69,31.840579710144926,11.0,9.0,18.0,16.0,15.0,5,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+365,u0439,1,8,35.875,1.0,1.0,1.0,4.0,1.0,4,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+366,u0440,2,25,36.36,6.0,5.0,3.0,3.0,8.0,5,"Very smooth, fast, and intuitive!",0.385,promoter
+367,u0441,1,14,32.285714285714285,2.0,2.0,5.0,1.0,4.0,1,"Very smooth, fast, and intuitive!",0.385,promoter
+368,u0442,1,6,19.166666666666668,0.0,0.0,3.0,3.0,0.0,3,Decent experience but could improve.,0.16666666666666666,passive
+369,u0443,4,32,28.6875,10.0,8.0,4.0,8.0,2.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+370,u0446,3,36,32.80555555555556,7.0,6.0,11.0,9.0,3.0,0,Decent experience but could improve.,0.16666666666666666,passive
+371,u0447,1,10,34.9,2.0,1.0,5.0,2.0,0.0,4,Decent experience but could improve.,0.16666666666666666,passive
+372,u0448,5,55,28.818181818181817,10.0,8.0,11.0,8.0,18.0,3,"Very smooth, fast, and intuitive!",0.385,promoter
+373,u0449,1,6,20.333333333333332,0.0,1.0,4.0,1.0,0.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+374,u0450,5,51,34.05882352941177,8.0,12.0,10.0,9.0,12.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+375,u0451,3,31,34.225806451612904,5.0,3.0,10.0,6.0,7.0,5,"Very smooth, fast, and intuitive!",0.385,promoter
+376,u0452,2,14,32.5,1.0,2.0,4.0,3.0,4.0,6,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+377,u0454,2,18,33.388888888888886,2.0,3.0,4.0,7.0,2.0,6,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+378,u0455,3,33,31.606060606060606,7.0,11.0,6.0,2.0,7.0,3,"Very smooth, fast, and intuitive!",0.385,promoter
+379,u0457,1,8,20.0,2.0,2.0,2.0,1.0,1.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+380,u0458,4,30,38.8,8.0,9.0,7.0,3.0,3.0,2,Decent experience but could improve.,0.16666666666666666,passive
+381,u0459,2,19,28.0,7.0,4.0,5.0,3.0,0.0,4,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+382,u0460,5,49,34.142857142857146,7.0,13.0,11.0,11.0,7.0,0,"Very smooth, fast, and intuitive!",0.385,promoter
+383,u0461,2,26,30.384615384615383,5.0,7.0,3.0,7.0,4.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+384,u0462,3,23,29.347826086956523,6.0,1.0,3.0,3.0,10.0,0,Decent experience but could improve.,0.16666666666666666,passive
+385,u0463,2,23,34.0,2.0,4.0,3.0,8.0,6.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+386,u0464,4,45,36.62222222222222,10.0,7.0,11.0,8.0,9.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+387,u0465,2,18,27.166666666666668,1.0,6.0,5.0,2.0,4.0,0,"Very smooth, fast, and intuitive!",0.385,promoter
+388,u0466,2,19,30.42105263157895,6.0,2.0,3.0,2.0,6.0,5,Decent experience but could improve.,0.16666666666666666,passive
+389,u0467,5,49,32.02040816326531,3.0,11.0,13.0,13.0,9.0,6,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+390,u0468,5,57,33.21052631578947,11.0,9.0,8.0,18.0,11.0,0,Decent experience but could improve.,0.16666666666666666,passive
+391,u0469,2,17,29.647058823529413,2.0,2.0,4.0,6.0,3.0,4,Decent experience but could improve.,0.16666666666666666,passive
+392,u0470,5,61,32.52459016393443,14.0,13.0,10.0,15.0,9.0,5,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+393,u0472,2,24,36.416666666666664,5.0,3.0,3.0,9.0,4.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+394,u0473,1,14,32.142857142857146,3.0,2.0,6.0,2.0,1.0,1,Decent experience but could improve.,0.16666666666666666,passive
+395,u0474,2,20,31.75,6.0,3.0,6.0,4.0,1.0,1,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+396,u0475,1,5,25.4,1.0,1.0,0.0,1.0,2.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+397,u0477,4,50,30.88,16.0,7.0,14.0,9.0,4.0,4,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+398,u0479,1,9,33.111111111111114,3.0,3.0,0.0,2.0,1.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+399,u0480,2,21,34.57142857142857,3.0,5.0,3.0,6.0,4.0,1,Decent experience but could improve.,0.16666666666666666,passive
+400,u0481,4,45,36.08888888888889,9.0,11.0,8.0,9.0,8.0,0,Decent experience but could improve.,0.16666666666666666,passive
+401,u0482,2,14,29.142857142857142,1.0,1.0,8.0,1.0,3.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+402,u0483,1,5,31.6,0.0,0.0,2.0,1.0,2.0,0,Decent experience but could improve.,0.16666666666666666,passive
+403,u0486,3,36,30.72222222222222,10.0,7.0,6.0,6.0,7.0,4,Decent experience but could improve.,0.16666666666666666,passive
+404,u0488,2,23,31.347826086956523,5.0,7.0,2.0,5.0,4.0,3,Decent experience but could improve.,0.16666666666666666,passive
+405,u0489,1,12,27.0,5.0,2.0,2.0,1.0,2.0,1,"Very smooth, fast, and intuitive!",0.385,promoter
+406,u0491,4,30,28.033333333333335,5.0,7.0,6.0,5.0,7.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+407,u0492,4,23,32.43478260869565,4.0,7.0,6.0,3.0,3.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+408,u0494,3,30,35.266666666666666,5.0,6.0,9.0,4.0,6.0,0,Decent experience but could improve.,0.16666666666666666,passive
+409,u0495,4,44,28.818181818181817,10.0,7.0,15.0,9.0,3.0,5,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+410,u0496,1,5,24.8,1.0,2.0,0.0,1.0,1.0,0,Decent experience but could improve.,0.16666666666666666,passive
+411,u0497,5,52,30.23076923076923,11.0,12.0,8.0,10.0,11.0,4,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+412,u0498,4,47,33.148936170212764,7.0,8.0,9.0,17.0,6.0,1,Decent experience but could improve.,0.16666666666666666,passive
+413,u0499,4,46,34.130434782608695,8.0,12.0,10.0,9.0,7.0,1,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+414,u0500,3,28,30.428571428571427,5.0,8.0,4.0,6.0,5.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+415,u0501,5,44,29.0,7.0,13.0,9.0,8.0,7.0,5,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+416,u0503,4,46,32.08695652173913,4.0,8.0,10.0,11.0,13.0,0,Decent experience but could improve.,0.16666666666666666,passive
+417,u0505,3,22,41.09090909090909,4.0,2.0,7.0,3.0,6.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+418,u0508,2,24,29.166666666666668,7.0,5.0,2.0,4.0,6.0,1,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+419,u0509,3,21,32.714285714285715,2.0,3.0,5.0,7.0,4.0,2,"Very smooth, fast, and intuitive!",0.385,promoter
+420,u0510,5,52,30.057692307692307,9.0,8.0,13.0,14.0,8.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+421,u0511,1,10,34.2,0.0,3.0,2.0,0.0,5.0,4,Decent experience but could improve.,0.16666666666666666,passive
+422,u0512,5,56,29.535714285714285,14.0,8.0,11.0,8.0,15.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+423,u0514,3,24,33.833333333333336,8.0,2.0,8.0,3.0,3.0,3,"Very smooth, fast, and intuitive!",0.385,promoter
+424,u0515,3,35,36.6,7.0,6.0,7.0,7.0,8.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+425,u0516,3,27,34.25925925925926,1.0,7.0,10.0,6.0,3.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+426,u0518,5,57,29.210526315789473,7.0,14.0,15.0,9.0,12.0,4,Decent experience but could improve.,0.16666666666666666,passive
+427,u0519,2,17,33.8235294117647,5.0,3.0,1.0,2.0,6.0,0,Decent experience but could improve.,0.16666666666666666,passive
+428,u0520,5,51,32.705882352941174,9.0,9.0,11.0,10.0,12.0,1,Decent experience but could improve.,0.16666666666666666,passive
+429,u0521,5,51,33.6078431372549,4.0,9.0,14.0,11.0,13.0,5,Decent experience but could improve.,0.16666666666666666,passive
+430,u0522,1,13,35.61538461538461,2.0,0.0,3.0,2.0,6.0,1,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+431,u0523,2,21,34.285714285714285,3.0,2.0,5.0,6.0,5.0,4,"Very smooth, fast, and intuitive!",0.385,promoter
+432,u0524,4,34,32.8235294117647,8.0,8.0,7.0,5.0,6.0,1,"Very smooth, fast, and intuitive!",0.385,promoter
+433,u0525,1,7,35.714285714285715,0.0,1.0,2.0,1.0,3.0,3,Decent experience but could improve.,0.16666666666666666,passive
+434,u0526,5,51,35.11764705882353,12.0,10.0,12.0,10.0,7.0,0,"Very smooth, fast, and intuitive!",0.385,promoter
+435,u0527,3,35,33.34285714285714,6.0,12.0,7.0,5.0,5.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+436,u0528,1,11,32.18181818181818,1.0,1.0,4.0,2.0,3.0,5,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+437,u0529,1,6,26.333333333333332,0.0,2.0,0.0,3.0,1.0,6,Decent experience but could improve.,0.16666666666666666,passive
+438,u0531,1,13,29.846153846153847,1.0,4.0,4.0,4.0,0.0,1,Decent experience but could improve.,0.16666666666666666,passive
+439,u0532,3,17,38.411764705882355,3.0,2.0,3.0,5.0,4.0,2,Decent experience but could improve.,0.16666666666666666,passive
+440,u0533,5,41,33.829268292682926,5.0,7.0,9.0,15.0,5.0,1,Decent experience but could improve.,0.16666666666666666,passive
+441,u0534,5,39,27.0,4.0,8.0,9.0,7.0,11.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+442,u0535,4,43,31.58139534883721,9.0,11.0,6.0,8.0,9.0,6,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+443,u0536,4,41,28.146341463414632,6.0,10.0,10.0,12.0,3.0,0,"Very smooth, fast, and intuitive!",0.385,promoter
+444,u0537,2,21,34.80952380952381,7.0,2.0,5.0,4.0,3.0,5,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+445,u0538,1,14,30.285714285714285,3.0,1.0,1.0,6.0,3.0,2,"Very smooth, fast, and intuitive!",0.385,promoter
+446,u0539,2,21,33.0,5.0,6.0,5.0,1.0,4.0,2,Decent experience but could improve.,0.16666666666666666,passive
+447,u0540,3,30,29.4,7.0,8.0,6.0,1.0,8.0,1,Decent experience but could improve.,0.16666666666666666,passive
+448,u0541,1,9,34.55555555555556,1.0,1.0,4.0,1.0,2.0,0,Decent experience but could improve.,0.16666666666666666,passive
+449,u0542,5,58,32.758620689655174,12.0,14.0,16.0,9.0,7.0,4,"Very smooth, fast, and intuitive!",0.385,promoter
+450,u0544,1,8,29.875,1.0,3.0,1.0,3.0,0.0,1,Decent experience but could improve.,0.16666666666666666,passive
+451,u0545,5,70,32.57142857142857,9.0,12.0,22.0,13.0,14.0,4,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+452,u0546,1,11,34.18181818181818,3.0,3.0,2.0,2.0,1.0,0,Decent experience but could improve.,0.16666666666666666,passive
+453,u0548,4,39,31.358974358974358,11.0,9.0,5.0,8.0,6.0,5,"Very smooth, fast, and intuitive!",0.385,promoter
+454,u0549,2,17,31.058823529411764,5.0,3.0,5.0,1.0,3.0,1,"Very smooth, fast, and intuitive!",0.385,promoter
+455,u0551,5,51,35.450980392156865,11.0,10.0,13.0,9.0,8.0,4,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+456,u0552,3,28,33.0,8.0,5.0,4.0,4.0,7.0,3,Decent experience but could improve.,0.16666666666666666,passive
+457,u0553,4,45,32.24444444444445,9.0,4.0,8.0,10.0,14.0,3,Decent experience but could improve.,0.16666666666666666,passive
+458,u0554,5,54,32.2037037037037,5.0,9.0,15.0,10.0,15.0,0,Decent experience but could improve.,0.16666666666666666,passive
+459,u0555,2,16,27.0625,3.0,4.0,4.0,3.0,2.0,0,Decent experience but could improve.,0.16666666666666666,passive
+460,u0556,4,47,35.765957446808514,11.0,11.0,6.0,11.0,8.0,1,Decent experience but could improve.,0.16666666666666666,passive
+461,u0557,4,38,32.473684210526315,6.0,8.0,7.0,9.0,8.0,6,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+462,u0559,5,65,31.96923076923077,11.0,13.0,15.0,11.0,15.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+463,u0560,3,42,31.69047619047619,6.0,13.0,9.0,5.0,9.0,5,"Very smooth, fast, and intuitive!",0.385,promoter
+464,u0562,4,37,28.89189189189189,10.0,10.0,6.0,7.0,4.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+465,u0563,2,23,30.26086956521739,2.0,3.0,7.0,5.0,6.0,6,"Very smooth, fast, and intuitive!",0.385,promoter
+466,u0565,1,12,32.083333333333336,3.0,2.0,2.0,2.0,3.0,4,"Very smooth, fast, and intuitive!",0.385,promoter
+467,u0567,2,15,29.466666666666665,2.0,4.0,1.0,4.0,4.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+468,u0569,5,45,29.0,10.0,8.0,11.0,6.0,10.0,4,Decent experience but could improve.,0.16666666666666666,passive
+469,u0570,1,14,36.57142857142857,2.0,5.0,3.0,3.0,1.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+470,u0571,2,17,36.8235294117647,4.0,3.0,3.0,5.0,2.0,5,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+471,u0574,2,16,29.5625,4.0,3.0,1.0,5.0,3.0,5,"Very smooth, fast, and intuitive!",0.385,promoter
+472,u0575,5,50,32.06,12.0,10.0,9.0,11.0,8.0,0,"Very smooth, fast, and intuitive!",0.385,promoter
+473,u0576,2,14,33.785714285714285,3.0,1.0,4.0,3.0,3.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+474,u0578,5,42,30.30952380952381,7.0,10.0,8.0,10.0,7.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+475,u0580,1,14,34.07142857142857,4.0,2.0,3.0,2.0,3.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+476,u0581,5,54,36.351851851851855,9.0,17.0,4.0,13.0,11.0,3,Decent experience but could improve.,0.16666666666666666,passive
+477,u0582,2,15,21.6,2.0,4.0,3.0,2.0,4.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+478,u0583,3,32,32.9375,5.0,10.0,6.0,5.0,6.0,1,"Very smooth, fast, and intuitive!",0.385,promoter
+479,u0584,2,23,33.0,8.0,3.0,3.0,3.0,6.0,0,Decent experience but could improve.,0.16666666666666666,passive
+480,u0585,1,12,42.416666666666664,3.0,1.0,3.0,3.0,2.0,4,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+481,u0586,5,52,33.57692307692308,9.0,10.0,11.0,17.0,5.0,1,"Very smooth, fast, and intuitive!",0.385,promoter
+482,u0587,4,36,31.97222222222222,2.0,14.0,7.0,4.0,9.0,4,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+483,u0590,2,18,32.44444444444444,5.0,4.0,4.0,3.0,2.0,0,"Very smooth, fast, and intuitive!",0.385,promoter
+484,u0592,2,24,32.541666666666664,4.0,4.0,6.0,4.0,6.0,3,Decent experience but could improve.,0.16666666666666666,passive
+485,u0593,3,36,35.94444444444444,8.0,11.0,0.0,13.0,4.0,4,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+486,u0594,1,7,39.285714285714285,1.0,0.0,0.0,2.0,4.0,4,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+487,u0595,3,24,34.5,7.0,8.0,3.0,3.0,3.0,0,"Very smooth, fast, and intuitive!",0.385,promoter
+488,u0597,1,14,27.0,3.0,5.0,2.0,1.0,3.0,1,Decent experience but could improve.,0.16666666666666666,passive
+489,u0598,3,35,30.82857142857143,7.0,6.0,6.0,11.0,5.0,6,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+490,u0599,3,27,34.0,4.0,6.0,5.0,8.0,4.0,6,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+491,u0600,2,13,24.692307692307693,3.0,1.0,4.0,4.0,1.0,4,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+492,u0601,5,64,31.09375,17.0,11.0,16.0,5.0,15.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+493,u0602,1,7,24.571428571428573,1.0,2.0,0.0,4.0,0.0,6,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+494,u0603,1,10,32.5,0.0,4.0,2.0,1.0,3.0,6,"Very smooth, fast, and intuitive!",0.385,promoter
+495,u0604,1,6,37.833333333333336,2.0,0.0,0.0,1.0,3.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+496,u0605,2,27,31.25925925925926,7.0,4.0,5.0,5.0,6.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+497,u0607,3,29,37.48275862068966,5.0,6.0,6.0,4.0,8.0,0,Decent experience but could improve.,0.16666666666666666,passive
+498,u0608,3,26,35.96153846153846,5.0,5.0,2.0,4.0,10.0,5,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+499,u0609,1,6,18.5,2.0,3.0,0.0,1.0,0.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+500,u0610,1,13,30.0,3.0,5.0,1.0,3.0,1.0,3,"Very smooth, fast, and intuitive!",0.385,promoter
+501,u0611,2,15,32.6,1.0,3.0,2.0,5.0,4.0,5,"Very smooth, fast, and intuitive!",0.385,promoter
+502,u0612,1,13,33.69230769230769,2.0,2.0,4.0,3.0,2.0,1,"Very smooth, fast, and intuitive!",0.385,promoter
+503,u0613,4,36,26.61111111111111,5.0,5.0,12.0,5.0,9.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+504,u0614,4,43,32.372093023255815,9.0,10.0,10.0,7.0,7.0,1,Decent experience but could improve.,0.16666666666666666,passive
+505,u0615,1,5,43.0,3.0,0.0,1.0,0.0,1.0,0,Decent experience but could improve.,0.16666666666666666,passive
+506,u0616,3,36,33.44444444444444,4.0,5.0,12.0,6.0,9.0,4,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+507,u0617,2,18,28.666666666666668,3.0,3.0,5.0,4.0,3.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+508,u0619,5,46,31.869565217391305,12.0,12.0,10.0,5.0,7.0,2,"Very smooth, fast, and intuitive!",0.385,promoter
+509,u0620,3,21,33.76190476190476,3.0,6.0,3.0,4.0,5.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+510,u0621,2,30,34.6,5.0,5.0,8.0,7.0,5.0,5,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+511,u0622,4,32,32.75,4.0,8.0,5.0,4.0,11.0,0,"Very smooth, fast, and intuitive!",0.385,promoter
+512,u0623,2,18,33.833333333333336,3.0,6.0,1.0,4.0,4.0,5,Decent experience but could improve.,0.16666666666666666,passive
+513,u0625,2,13,38.53846153846154,2.0,2.0,4.0,2.0,3.0,0,"Very smooth, fast, and intuitive!",0.385,promoter
+514,u0627,3,39,29.82051282051282,10.0,14.0,5.0,5.0,5.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+515,u0629,4,28,30.392857142857142,5.0,5.0,6.0,5.0,7.0,2,Decent experience but could improve.,0.16666666666666666,passive
+516,u0630,1,5,30.0,0.0,2.0,2.0,0.0,1.0,1,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+517,u0632,5,51,32.705882352941174,10.0,13.0,8.0,9.0,11.0,3,Decent experience but could improve.,0.16666666666666666,passive
+518,u0633,2,19,29.57894736842105,4.0,2.0,4.0,2.0,7.0,4,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+519,u0637,3,42,36.42857142857143,13.0,7.0,11.0,10.0,1.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+520,u0638,5,51,30.49019607843137,11.0,16.0,7.0,8.0,9.0,1,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+521,u0639,5,41,31.097560975609756,8.0,7.0,5.0,14.0,7.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+522,u0640,2,20,32.55,1.0,6.0,5.0,3.0,5.0,6,Decent experience but could improve.,0.16666666666666666,passive
+523,u0641,5,47,36.234042553191486,8.0,12.0,10.0,8.0,9.0,6,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+524,u0642,4,43,35.86046511627907,10.0,9.0,8.0,6.0,10.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+525,u0643,4,38,36.94736842105263,8.0,5.0,8.0,9.0,8.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+526,u0645,1,5,30.4,0.0,1.0,1.0,2.0,1.0,2,Decent experience but could improve.,0.16666666666666666,passive
+527,u0646,5,40,37.075,9.0,9.0,8.0,8.0,6.0,5,"Very smooth, fast, and intuitive!",0.385,promoter
+528,u0648,5,48,29.916666666666668,10.0,8.0,13.0,8.0,9.0,2,Decent experience but could improve.,0.16666666666666666,passive
+529,u0649,5,36,33.083333333333336,9.0,6.0,4.0,8.0,9.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+530,u0651,2,24,33.625,3.0,3.0,5.0,4.0,9.0,4,"Very smooth, fast, and intuitive!",0.385,promoter
+531,u0652,3,29,36.3448275862069,7.0,8.0,5.0,5.0,4.0,0,"Very smooth, fast, and intuitive!",0.385,promoter
+532,u0653,3,26,32.73076923076923,4.0,7.0,3.0,6.0,6.0,4,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+533,u0655,2,17,34.76470588235294,4.0,3.0,4.0,3.0,3.0,4,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+534,u0656,5,34,29.764705882352942,11.0,5.0,4.0,5.0,9.0,2,"Very smooth, fast, and intuitive!",0.385,promoter
+535,u0659,2,19,31.210526315789473,4.0,4.0,2.0,3.0,6.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+536,u0661,2,22,39.0,3.0,3.0,6.0,7.0,3.0,2,"Very smooth, fast, and intuitive!",0.385,promoter
+537,u0662,4,34,34.705882352941174,6.0,8.0,9.0,3.0,8.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+538,u0664,1,7,37.142857142857146,2.0,0.0,2.0,2.0,1.0,2,Decent experience but could improve.,0.16666666666666666,passive
+539,u0665,5,66,34.63636363636363,12.0,12.0,17.0,8.0,17.0,4,Decent experience but could improve.,0.16666666666666666,passive
+540,u0667,4,36,36.333333333333336,4.0,8.0,3.0,11.0,10.0,2,Decent experience but could improve.,0.16666666666666666,passive
+541,u0668,4,46,34.97826086956522,9.0,4.0,16.0,9.0,8.0,4,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+542,u0669,1,13,32.53846153846154,1.0,2.0,4.0,4.0,2.0,5,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+543,u0670,3,22,28.954545454545453,3.0,7.0,5.0,5.0,2.0,6,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+544,u0672,2,16,24.0625,4.0,2.0,4.0,3.0,3.0,1,"Very smooth, fast, and intuitive!",0.385,promoter
+545,u0674,5,45,30.8,7.0,8.0,9.0,9.0,12.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+546,u0675,2,17,33.76470588235294,1.0,6.0,3.0,4.0,3.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+547,u0676,5,57,27.43859649122807,11.0,8.0,18.0,8.0,12.0,0,"Very smooth, fast, and intuitive!",0.385,promoter
+548,u0677,4,52,25.615384615384617,11.0,8.0,11.0,10.0,12.0,5,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+549,u0678,2,30,32.46666666666667,5.0,6.0,5.0,11.0,3.0,1,Decent experience but could improve.,0.16666666666666666,passive
+550,u0679,1,10,32.7,0.0,2.0,4.0,1.0,3.0,1,Decent experience but could improve.,0.16666666666666666,passive
+551,u0681,4,46,32.45652173913044,12.0,6.0,6.0,12.0,10.0,1,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+552,u0682,4,43,37.13953488372093,9.0,8.0,8.0,12.0,6.0,0,"Very smooth, fast, and intuitive!",0.385,promoter
+553,u0683,4,38,32.078947368421055,11.0,8.0,8.0,5.0,6.0,1,"Very smooth, fast, and intuitive!",0.385,promoter
+554,u0684,4,45,33.53333333333333,8.0,7.0,10.0,11.0,9.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+555,u0685,4,43,26.511627906976745,9.0,7.0,6.0,10.0,11.0,2,Decent experience but could improve.,0.16666666666666666,passive
+556,u0687,2,28,26.035714285714285,9.0,5.0,9.0,2.0,3.0,6,Decent experience but could improve.,0.16666666666666666,passive
+557,u0690,1,12,31.25,2.0,2.0,5.0,1.0,2.0,5,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+558,u0691,1,13,36.23076923076923,2.0,4.0,1.0,3.0,3.0,6,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+559,u0692,3,23,36.78260869565217,9.0,2.0,4.0,5.0,3.0,5,Decent experience but could improve.,0.16666666666666666,passive
+560,u0693,2,24,32.916666666666664,3.0,3.0,9.0,5.0,4.0,1,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+561,u0694,2,26,31.26923076923077,3.0,5.0,8.0,7.0,3.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+562,u0695,5,54,30.98148148148148,10.0,11.0,14.0,12.0,7.0,2,Decent experience but could improve.,0.16666666666666666,passive
+563,u0696,2,18,31.833333333333332,7.0,4.0,2.0,3.0,2.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+564,u0697,2,14,26.5,1.0,4.0,3.0,2.0,4.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+565,u0699,5,50,31.22,10.0,11.0,9.0,10.0,10.0,1,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+566,u0700,4,40,31.85,9.0,8.0,7.0,7.0,9.0,2,Decent experience but could improve.,0.16666666666666666,passive
+567,u0702,4,48,31.020833333333332,8.0,7.0,9.0,14.0,10.0,1,"Very smooth, fast, and intuitive!",0.385,promoter
+568,u0703,5,49,30.387755102040817,10.0,8.0,11.0,9.0,11.0,4,"Very smooth, fast, and intuitive!",0.385,promoter
+569,u0704,3,42,33.166666666666664,5.0,11.0,7.0,12.0,7.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+570,u0705,4,46,33.43478260869565,9.0,10.0,4.0,13.0,10.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+571,u0707,5,39,33.8974358974359,11.0,10.0,5.0,8.0,5.0,5,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+572,u0708,5,47,35.808510638297875,7.0,11.0,7.0,13.0,9.0,0,"Very smooth, fast, and intuitive!",0.385,promoter
+573,u0709,3,26,28.03846153846154,6.0,7.0,6.0,3.0,4.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+574,u0710,1,13,37.23076923076923,3.0,4.0,0.0,2.0,4.0,3,Decent experience but could improve.,0.16666666666666666,passive
+575,u0712,2,18,33.333333333333336,3.0,4.0,1.0,7.0,3.0,2,"Very smooth, fast, and intuitive!",0.385,promoter
+576,u0713,1,15,35.93333333333333,2.0,3.0,3.0,2.0,5.0,1,"Very smooth, fast, and intuitive!",0.385,promoter
+577,u0716,3,21,24.857142857142858,3.0,7.0,4.0,4.0,3.0,0,"Very smooth, fast, and intuitive!",0.385,promoter
+578,u0717,5,60,32.15,10.0,11.0,7.0,15.0,17.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+579,u0718,3,24,29.041666666666668,2.0,4.0,6.0,9.0,3.0,1,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+580,u0719,3,31,34.38709677419355,8.0,6.0,2.0,11.0,4.0,0,"Very smooth, fast, and intuitive!",0.385,promoter
+581,u0720,4,36,30.166666666666668,5.0,5.0,12.0,7.0,7.0,1,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+582,u0721,1,14,31.714285714285715,2.0,1.0,1.0,4.0,6.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+583,u0722,2,23,33.608695652173914,9.0,2.0,5.0,4.0,3.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+584,u0723,4,45,32.8,10.0,9.0,9.0,7.0,10.0,1,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+585,u0724,4,42,37.26190476190476,10.0,7.0,6.0,10.0,9.0,1,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+586,u0726,3,15,29.866666666666667,3.0,2.0,4.0,3.0,3.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+587,u0728,4,46,34.17391304347826,5.0,10.0,11.0,8.0,12.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+588,u0730,3,23,35.69565217391305,7.0,1.0,7.0,1.0,7.0,0,Decent experience but could improve.,0.16666666666666666,passive
+589,u0732,5,40,35.275,7.0,9.0,3.0,16.0,5.0,1,Decent experience but could improve.,0.16666666666666666,passive
+590,u0733,1,9,41.77777777777778,3.0,1.0,0.0,2.0,3.0,2,Decent experience but could improve.,0.16666666666666666,passive
+591,u0735,3,31,30.06451612903226,4.0,6.0,6.0,9.0,6.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+592,u0737,2,14,30.0,4.0,2.0,2.0,3.0,3.0,0,"Very smooth, fast, and intuitive!",0.385,promoter
+593,u0739,5,53,34.37735849056604,9.0,9.0,7.0,17.0,11.0,3,Decent experience but could improve.,0.16666666666666666,passive
+594,u0740,1,14,32.57142857142857,2.0,2.0,4.0,3.0,3.0,5,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+595,u0742,1,13,31.0,2.0,4.0,1.0,2.0,4.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+596,u0743,2,14,33.42857142857143,3.0,1.0,3.0,3.0,4.0,1,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+597,u0744,3,15,40.4,0.0,4.0,1.0,6.0,4.0,5,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+598,u0746,5,56,34.160714285714285,12.0,15.0,10.0,9.0,10.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+599,u0748,3,36,30.88888888888889,10.0,3.0,9.0,7.0,7.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+600,u0749,3,29,31.586206896551722,7.0,5.0,6.0,5.0,6.0,6,Decent experience but could improve.,0.16666666666666666,passive
+601,u0750,4,43,31.488372093023255,7.0,8.0,11.0,6.0,11.0,3,"Very smooth, fast, and intuitive!",0.385,promoter
+602,u0751,3,38,31.81578947368421,7.0,7.0,7.0,9.0,8.0,3,"Very smooth, fast, and intuitive!",0.385,promoter
+603,u0752,5,47,32.191489361702125,9.0,13.0,8.0,7.0,10.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+604,u0755,3,29,36.13793103448276,4.0,6.0,6.0,5.0,8.0,5,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+605,u0757,5,67,33.62686567164179,15.0,15.0,9.0,15.0,13.0,2,"Very smooth, fast, and intuitive!",0.385,promoter
+606,u0758,5,54,35.05555555555556,11.0,12.0,7.0,11.0,13.0,1,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+607,u0759,3,26,33.53846153846154,7.0,7.0,3.0,3.0,6.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+608,u0761,5,56,34.07142857142857,13.0,12.0,14.0,7.0,10.0,6,Decent experience but could improve.,0.16666666666666666,passive
+609,u0762,2,22,34.31818181818182,2.0,8.0,4.0,5.0,3.0,3,"Very smooth, fast, and intuitive!",0.385,promoter
+610,u0763,4,43,29.488372093023255,12.0,10.0,6.0,10.0,5.0,1,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+611,u0764,2,25,32.48,6.0,5.0,5.0,4.0,5.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+612,u0765,4,44,30.454545454545453,7.0,8.0,11.0,10.0,8.0,3,Decent experience but could improve.,0.16666666666666666,passive
+613,u0766,2,12,44.583333333333336,4.0,2.0,1.0,4.0,1.0,6,Decent experience but could improve.,0.16666666666666666,passive
+614,u0767,2,24,36.583333333333336,8.0,4.0,3.0,5.0,4.0,0,"Very smooth, fast, and intuitive!",0.385,promoter
+615,u0768,1,7,33.57142857142857,2.0,1.0,0.0,1.0,3.0,2,"Very smooth, fast, and intuitive!",0.385,promoter
+616,u0769,4,43,31.488372093023255,10.0,7.0,10.0,5.0,11.0,1,"Very smooth, fast, and intuitive!",0.385,promoter
+617,u0770,5,53,30.92452830188679,9.0,9.0,17.0,7.0,11.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+618,u0771,4,36,34.638888888888886,7.0,8.0,6.0,10.0,5.0,4,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+619,u0772,3,39,28.358974358974358,10.0,8.0,8.0,3.0,10.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+620,u0773,5,43,29.558139534883722,4.0,9.0,11.0,6.0,13.0,1,Decent experience but could improve.,0.16666666666666666,passive
+621,u0774,2,19,38.94736842105263,5.0,3.0,3.0,3.0,5.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+622,u0775,2,13,35.07692307692308,2.0,3.0,2.0,3.0,3.0,2,"Very smooth, fast, and intuitive!",0.385,promoter
+623,u0777,3,29,39.86206896551724,8.0,10.0,2.0,3.0,6.0,1,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+624,u0778,1,10,29.6,3.0,2.0,1.0,0.0,4.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+625,u0779,3,26,33.03846153846154,6.0,3.0,9.0,5.0,3.0,4,"Very smooth, fast, and intuitive!",0.385,promoter
+626,u0780,3,27,32.55555555555556,4.0,8.0,7.0,5.0,3.0,3,"Very smooth, fast, and intuitive!",0.385,promoter
+627,u0781,5,52,31.807692307692307,11.0,7.0,10.0,18.0,6.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+628,u0782,1,8,39.5,3.0,2.0,1.0,1.0,1.0,0,Decent experience but could improve.,0.16666666666666666,passive
+629,u0783,1,9,35.22222222222222,1.0,1.0,2.0,1.0,4.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+630,u0784,4,36,34.361111111111114,8.0,4.0,13.0,7.0,4.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+631,u0785,4,41,27.682926829268293,5.0,10.0,8.0,10.0,8.0,1,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+632,u0786,1,7,27.0,1.0,1.0,1.0,3.0,1.0,1,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+633,u0788,1,11,30.0,1.0,3.0,3.0,2.0,2.0,6,Decent experience but could improve.,0.16666666666666666,passive
+634,u0789,1,12,30.25,3.0,4.0,2.0,2.0,1.0,6,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+635,u0791,2,23,27.391304347826086,9.0,3.0,4.0,3.0,4.0,0,Decent experience but could improve.,0.16666666666666666,passive
+636,u0792,4,32,36.125,8.0,7.0,4.0,7.0,6.0,4,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+637,u0793,2,15,32.666666666666664,4.0,3.0,2.0,4.0,2.0,6,"Very smooth, fast, and intuitive!",0.385,promoter
+638,u0794,5,46,34.0,5.0,12.0,9.0,8.0,12.0,1,Decent experience but could improve.,0.16666666666666666,passive
+639,u0795,2,28,35.857142857142854,11.0,3.0,4.0,1.0,9.0,5,"Very smooth, fast, and intuitive!",0.385,promoter
+640,u0796,1,15,33.733333333333334,3.0,3.0,4.0,1.0,4.0,5,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+641,u0797,5,42,31.047619047619047,9.0,8.0,6.0,11.0,8.0,5,Decent experience but could improve.,0.16666666666666666,passive
+642,u0798,1,6,22.5,2.0,1.0,0.0,0.0,3.0,1,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+643,u0799,3,32,29.59375,6.0,3.0,11.0,5.0,7.0,3,Decent experience but could improve.,0.16666666666666666,passive
+644,u0800,3,33,29.333333333333332,10.0,4.0,9.0,2.0,8.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+645,u0801,4,39,36.69230769230769,12.0,6.0,9.0,7.0,5.0,4,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+646,u0802,4,43,32.27906976744186,10.0,11.0,6.0,7.0,9.0,3,"Very smooth, fast, and intuitive!",0.385,promoter
+647,u0803,2,28,30.464285714285715,6.0,4.0,6.0,4.0,8.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+648,u0804,4,48,30.375,10.0,6.0,12.0,10.0,10.0,3,Decent experience but could improve.,0.16666666666666666,passive
+649,u0806,1,10,30.9,1.0,5.0,2.0,1.0,1.0,1,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+650,u0807,3,30,32.333333333333336,6.0,8.0,8.0,5.0,3.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+651,u0808,5,50,32.08,8.0,8.0,10.0,11.0,13.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+652,u0809,3,24,32.958333333333336,6.0,7.0,5.0,6.0,0.0,4,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+653,u0810,2,25,34.84,2.0,9.0,7.0,3.0,4.0,2,"Very smooth, fast, and intuitive!",0.385,promoter
+654,u0811,4,33,29.484848484848484,5.0,10.0,6.0,2.0,10.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+655,u0812,4,49,30.979591836734695,16.0,8.0,7.0,9.0,9.0,6,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+656,u0815,2,15,30.8,5.0,1.0,3.0,3.0,3.0,4,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+657,u0816,1,12,27.75,4.0,1.0,4.0,1.0,2.0,1,"Very smooth, fast, and intuitive!",0.385,promoter
+658,u0817,2,15,34.46666666666667,3.0,2.0,3.0,5.0,2.0,2,Decent experience but could improve.,0.16666666666666666,passive
+659,u0819,3,32,31.84375,7.0,4.0,7.0,7.0,7.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+660,u0820,5,54,32.18518518518518,6.0,12.0,8.0,14.0,14.0,3,Decent experience but could improve.,0.16666666666666666,passive
+661,u0821,3,24,34.125,5.0,7.0,7.0,3.0,2.0,0,"Very smooth, fast, and intuitive!",0.385,promoter
+662,u0822,2,17,37.8235294117647,3.0,4.0,4.0,3.0,3.0,1,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+663,u0824,4,36,34.94444444444444,8.0,8.0,4.0,9.0,7.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+664,u0825,5,46,29.934782608695652,11.0,6.0,8.0,11.0,10.0,4,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+665,u0826,1,10,30.8,1.0,3.0,2.0,3.0,1.0,2,"Very smooth, fast, and intuitive!",0.385,promoter
+666,u0828,3,34,30.470588235294116,4.0,11.0,5.0,6.0,8.0,1,Decent experience but could improve.,0.16666666666666666,passive
+667,u0829,1,6,29.0,2.0,0.0,3.0,1.0,0.0,1,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+668,u0830,2,13,29.76923076923077,2.0,3.0,3.0,4.0,1.0,5,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+669,u0831,3,32,32.28125,5.0,6.0,8.0,6.0,7.0,4,Decent experience but could improve.,0.16666666666666666,passive
+670,u0832,3,21,40.23809523809524,5.0,5.0,3.0,4.0,4.0,4,Decent experience but could improve.,0.16666666666666666,passive
+671,u0833,2,13,30.923076923076923,2.0,2.0,2.0,5.0,2.0,1,Decent experience but could improve.,0.16666666666666666,passive
+672,u0834,3,29,34.89655172413793,7.0,7.0,7.0,4.0,4.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+673,u0835,1,9,21.22222222222222,1.0,3.0,1.0,3.0,1.0,4,Decent experience but could improve.,0.16666666666666666,passive
+674,u0837,1,7,26.285714285714285,2.0,0.0,2.0,3.0,0.0,4,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+675,u0840,5,43,32.348837209302324,10.0,9.0,10.0,6.0,8.0,6,Decent experience but could improve.,0.16666666666666666,passive
+676,u0841,4,34,29.58823529411765,11.0,7.0,7.0,3.0,6.0,2,Decent experience but could improve.,0.16666666666666666,passive
+677,u0842,5,62,32.95161290322581,13.0,10.0,12.0,11.0,16.0,5,"Very smooth, fast, and intuitive!",0.385,promoter
+678,u0843,3,28,38.392857142857146,11.0,3.0,5.0,3.0,6.0,0,Decent experience but could improve.,0.16666666666666666,passive
+679,u0845,5,54,32.53703703703704,3.0,8.0,14.0,20.0,9.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+680,u0846,2,28,31.107142857142858,8.0,4.0,4.0,4.0,8.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+681,u0847,1,14,39.357142857142854,1.0,3.0,5.0,2.0,3.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+682,u0849,5,60,30.733333333333334,6.0,10.0,19.0,8.0,17.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+683,u0851,5,53,36.37735849056604,8.0,7.0,12.0,16.0,10.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+684,u0852,3,32,31.90625,7.0,8.0,5.0,4.0,8.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+685,u0853,4,36,28.86111111111111,6.0,7.0,8.0,11.0,4.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+686,u0854,2,13,26.846153846153847,3.0,3.0,2.0,3.0,2.0,1,Decent experience but could improve.,0.16666666666666666,passive
+687,u0855,1,9,37.111111111111114,4.0,3.0,0.0,2.0,0.0,1,Decent experience but could improve.,0.16666666666666666,passive
+688,u0856,1,15,23.8,2.0,2.0,5.0,5.0,1.0,0,Decent experience but could improve.,0.16666666666666666,passive
+689,u0857,4,44,37.72727272727273,8.0,9.0,5.0,10.0,12.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+690,u0858,1,14,31.785714285714285,2.0,3.0,3.0,3.0,3.0,2,Decent experience but could improve.,0.16666666666666666,passive
+691,u0859,5,55,33.345454545454544,8.0,14.0,12.0,10.0,11.0,5,Decent experience but could improve.,0.16666666666666666,passive
+692,u0860,2,16,29.5,1.0,5.0,4.0,3.0,3.0,5,"Very smooth, fast, and intuitive!",0.385,promoter
+693,u0862,2,30,31.833333333333332,5.0,5.0,6.0,6.0,8.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+694,u0863,1,14,39.357142857142854,3.0,2.0,3.0,5.0,1.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+695,u0864,1,6,23.0,2.0,0.0,2.0,0.0,2.0,1,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+696,u0865,4,48,31.479166666666668,6.0,17.0,4.0,13.0,8.0,1,Decent experience but could improve.,0.16666666666666666,passive
+697,u0866,3,27,34.77777777777778,6.0,8.0,3.0,4.0,6.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+698,u0868,5,46,33.82608695652174,9.0,12.0,6.0,9.0,10.0,5,"Very smooth, fast, and intuitive!",0.385,promoter
+699,u0869,2,25,29.08,7.0,1.0,7.0,6.0,4.0,5,Decent experience but could improve.,0.16666666666666666,passive
+700,u0870,3,28,30.857142857142858,7.0,5.0,7.0,5.0,4.0,4,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+701,u0871,2,25,35.2,7.0,5.0,8.0,4.0,1.0,4,Decent experience but could improve.,0.16666666666666666,passive
+702,u0872,5,54,34.46296296296296,12.0,11.0,13.0,11.0,7.0,1,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+703,u0873,2,26,32.53846153846154,5.0,4.0,6.0,2.0,9.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+704,u0876,4,33,31.575757575757574,8.0,5.0,8.0,8.0,4.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+705,u0877,3,29,40.03448275862069,4.0,3.0,11.0,6.0,5.0,1,"Very smooth, fast, and intuitive!",0.385,promoter
+706,u0878,5,52,30.615384615384617,15.0,9.0,9.0,9.0,10.0,2,Decent experience but could improve.,0.16666666666666666,passive
+707,u0879,3,32,31.65625,11.0,1.0,5.0,6.0,9.0,1,Decent experience but could improve.,0.16666666666666666,passive
+708,u0880,2,28,36.892857142857146,6.0,7.0,5.0,6.0,4.0,0,Decent experience but could improve.,0.16666666666666666,passive
+709,u0881,4,34,34.73529411764706,10.0,6.0,5.0,7.0,6.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+710,u0883,3,22,34.09090909090909,6.0,6.0,4.0,1.0,5.0,6,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+711,u0884,4,40,31.15,12.0,6.0,12.0,3.0,7.0,2,Decent experience but could improve.,0.16666666666666666,passive
+712,u0885,5,55,34.945454545454545,5.0,10.0,17.0,12.0,11.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+713,u0886,3,30,32.1,7.0,5.0,7.0,4.0,7.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+714,u0887,2,25,34.84,8.0,3.0,6.0,5.0,3.0,6,Decent experience but could improve.,0.16666666666666666,passive
+715,u0889,4,31,36.903225806451616,5.0,5.0,8.0,2.0,11.0,0,Decent experience but could improve.,0.16666666666666666,passive
+716,u0892,1,6,27.166666666666668,1.0,1.0,0.0,3.0,1.0,4,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+717,u0893,2,28,32.607142857142854,7.0,3.0,4.0,9.0,5.0,1,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+718,u0896,5,35,33.51428571428571,10.0,2.0,8.0,6.0,9.0,4,Decent experience but could improve.,0.16666666666666666,passive
+719,u0897,4,41,31.658536585365855,9.0,8.0,10.0,4.0,10.0,4,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+720,u0898,5,47,31.76595744680851,9.0,11.0,6.0,11.0,10.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+721,u0899,3,24,28.541666666666668,2.0,6.0,4.0,8.0,4.0,1,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+722,u0900,4,52,29.596153846153847,10.0,8.0,8.0,12.0,14.0,0,Decent experience but could improve.,0.16666666666666666,passive
+723,u0901,5,53,33.84905660377358,6.0,11.0,15.0,10.0,11.0,4,"Very smooth, fast, and intuitive!",0.385,promoter
+724,u0902,4,49,34.02040816326531,7.0,10.0,13.0,8.0,11.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+725,u0903,4,45,34.62222222222222,7.0,9.0,10.0,8.0,11.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+726,u0904,3,33,37.27272727272727,7.0,6.0,4.0,5.0,11.0,4,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+727,u0905,5,57,30.24561403508772,7.0,17.0,12.0,10.0,11.0,1,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+728,u0906,3,35,31.82857142857143,7.0,7.0,11.0,5.0,5.0,4,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+729,u0907,1,10,28.8,1.0,2.0,2.0,4.0,1.0,1,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+730,u0908,2,10,29.4,2.0,4.0,2.0,2.0,0.0,1,Decent experience but could improve.,0.16666666666666666,passive
+731,u0909,1,5,39.2,0.0,3.0,0.0,2.0,0.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+732,u0910,5,43,29.906976744186046,14.0,7.0,6.0,7.0,9.0,5,"Very smooth, fast, and intuitive!",0.385,promoter
+733,u0911,1,14,27.142857142857142,4.0,0.0,5.0,1.0,4.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+734,u0912,3,30,34.833333333333336,4.0,5.0,8.0,8.0,5.0,6,Decent experience but could improve.,0.16666666666666666,passive
+735,u0913,3,36,32.97222222222222,7.0,10.0,3.0,5.0,11.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+736,u0914,2,25,31.24,3.0,8.0,4.0,5.0,5.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+737,u0915,3,24,32.708333333333336,6.0,1.0,9.0,4.0,4.0,5,"Very smooth, fast, and intuitive!",0.385,promoter
+738,u0916,5,38,33.86842105263158,7.0,8.0,7.0,9.0,7.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+739,u0917,3,31,34.225806451612904,5.0,5.0,8.0,5.0,8.0,6,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+740,u0918,1,13,35.76923076923077,4.0,1.0,0.0,4.0,4.0,1,Decent experience but could improve.,0.16666666666666666,passive
+741,u0919,5,53,27.90566037735849,13.0,13.0,8.0,6.0,13.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+742,u0921,3,34,32.64705882352941,9.0,6.0,8.0,5.0,6.0,2,Decent experience but could improve.,0.16666666666666666,passive
+743,u0922,1,5,30.4,1.0,2.0,1.0,0.0,1.0,0,Decent experience but could improve.,0.16666666666666666,passive
+744,u0923,2,22,35.0,4.0,3.0,5.0,4.0,6.0,1,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+745,u0924,1,5,21.4,1.0,0.0,0.0,1.0,3.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+746,u0925,1,5,32.0,1.0,1.0,0.0,1.0,2.0,1,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+747,u0927,4,39,29.307692307692307,8.0,11.0,5.0,6.0,9.0,6,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+748,u0928,3,33,34.515151515151516,5.0,8.0,8.0,6.0,6.0,3,Decent experience but could improve.,0.16666666666666666,passive
+749,u0931,2,15,30.2,4.0,3.0,1.0,0.0,7.0,2,Decent experience but could improve.,0.16666666666666666,passive
+750,u0932,3,37,32.13513513513514,7.0,5.0,6.0,8.0,11.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+751,u0933,1,7,34.42857142857143,2.0,4.0,0.0,1.0,0.0,4,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+752,u0934,4,37,30.594594594594593,9.0,9.0,9.0,5.0,5.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+753,u0937,3,33,30.333333333333332,2.0,9.0,5.0,8.0,9.0,6,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+754,u0940,2,25,25.12,4.0,4.0,3.0,9.0,5.0,3,"Very smooth, fast, and intuitive!",0.385,promoter
+755,u0941,5,68,29.75,16.0,16.0,13.0,17.0,6.0,1,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+756,u0942,2,16,32.75,2.0,4.0,2.0,5.0,3.0,1,"Very smooth, fast, and intuitive!",0.385,promoter
+757,u0944,3,34,32.588235294117645,6.0,5.0,7.0,8.0,8.0,3,Decent experience but could improve.,0.16666666666666666,passive
+758,u0945,3,25,35.16,4.0,5.0,7.0,5.0,4.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+759,u0946,5,54,34.166666666666664,19.0,11.0,11.0,8.0,5.0,6,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+760,u0947,4,41,31.926829268292682,10.0,6.0,6.0,8.0,11.0,0,"Very smooth, fast, and intuitive!",0.385,promoter
+761,u0949,2,24,34.583333333333336,3.0,7.0,6.0,3.0,5.0,1,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+762,u0950,4,39,37.38461538461539,9.0,9.0,7.0,7.0,7.0,5,"Very smooth, fast, and intuitive!",0.385,promoter
+763,u0952,3,35,29.17142857142857,4.0,11.0,10.0,4.0,6.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+764,u0953,4,49,31.73469387755102,6.0,15.0,10.0,11.0,7.0,5,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+765,u0954,3,37,29.91891891891892,9.0,3.0,7.0,11.0,7.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+766,u0956,1,6,33.333333333333336,1.0,0.0,2.0,3.0,0.0,1,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+767,u0957,1,6,29.166666666666668,0.0,0.0,2.0,3.0,1.0,4,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+768,u0958,1,9,27.666666666666668,1.0,3.0,1.0,1.0,3.0,0,Decent experience but could improve.,0.16666666666666666,passive
+769,u0959,5,42,33.57142857142857,11.0,8.0,12.0,5.0,6.0,1,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+770,u0961,1,13,26.0,3.0,4.0,2.0,3.0,1.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+771,u0962,2,19,32.89473684210526,4.0,7.0,2.0,1.0,5.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+772,u0963,4,40,32.15,8.0,7.0,9.0,10.0,6.0,2,Decent experience but could improve.,0.16666666666666666,passive
+773,u0965,3,32,32.0625,6.0,9.0,4.0,7.0,6.0,2,Decent experience but could improve.,0.16666666666666666,passive
+774,u0966,4,41,36.36585365853659,14.0,5.0,8.0,6.0,8.0,1,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+775,u0967,2,25,36.36,4.0,7.0,8.0,2.0,4.0,1,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+776,u0968,5,39,28.82051282051282,8.0,10.0,9.0,8.0,4.0,6,Decent experience but could improve.,0.16666666666666666,passive
+777,u0969,3,35,34.02857142857143,9.0,5.0,6.0,12.0,3.0,1,Decent experience but could improve.,0.16666666666666666,passive
+778,u0970,5,50,31.58,13.0,8.0,10.0,12.0,7.0,1,Decent experience but could improve.,0.16666666666666666,passive
+779,u0971,4,33,30.181818181818183,9.0,11.0,6.0,5.0,2.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+780,u0972,4,38,31.763157894736842,4.0,5.0,12.0,9.0,8.0,0,Decent experience but could improve.,0.16666666666666666,passive
+781,u0973,2,22,26.272727272727273,3.0,2.0,3.0,8.0,6.0,3,"Very smooth, fast, and intuitive!",0.385,promoter
+782,u0974,4,38,33.26315789473684,10.0,10.0,5.0,6.0,7.0,1,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+783,u0975,5,39,35.17948717948718,4.0,13.0,4.0,9.0,9.0,2,"Very smooth, fast, and intuitive!",0.385,promoter
+784,u0976,2,21,30.571428571428573,5.0,9.0,3.0,3.0,1.0,1,Decent experience but could improve.,0.16666666666666666,passive
+785,u0977,1,5,41.2,1.0,0.0,2.0,0.0,2.0,0,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+786,u0978,5,43,31.209302325581394,10.0,9.0,7.0,9.0,8.0,2,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+787,u0979,4,27,30.11111111111111,5.0,7.0,3.0,6.0,6.0,5,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+788,u0980,1,8,33.5,1.0,0.0,0.0,5.0,2.0,1,Decent experience but could improve.,0.16666666666666666,passive
+789,u0982,4,34,32.911764705882355,8.0,2.0,10.0,6.0,8.0,6,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+790,u0985,3,35,31.37142857142857,3.0,7.0,10.0,7.0,8.0,3,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+791,u0988,2,24,33.916666666666664,6.0,8.0,2.0,7.0,1.0,4,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+792,u0989,4,42,34.95238095238095,8.0,8.0,10.0,6.0,10.0,4,Decent experience but could improve.,0.16666666666666666,passive
+793,u0993,1,5,48.2,2.0,0.0,2.0,0.0,1.0,1,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+794,u0994,2,18,38.333333333333336,3.0,3.0,4.0,4.0,4.0,1,"Very smooth, fast, and intuitive!",0.385,promoter
+795,u0996,4,41,32.09756097560975,11.0,9.0,8.0,5.0,8.0,5,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+796,u0997,4,36,29.11111111111111,7.0,10.0,6.0,7.0,6.0,0,Decent experience but could improve.,0.16666666666666666,passive
+797,u0998,3,29,35.93103448275862,4.0,6.0,8.0,6.0,5.0,5,Decent experience but could improve.,0.16666666666666666,passive
+798,u0999,4,35,31.97142857142857,8.0,4.0,7.0,7.0,9.0,6,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor
+799,u1000,3,37,34.13513513513514,6.0,8.0,7.0,10.0,6.0,4,"Too slow, buggy or hard to navigate.",-0.2958333333333334,detractor

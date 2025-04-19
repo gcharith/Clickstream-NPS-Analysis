@@ -1,0 +1,801 @@
+user_id,timestamp,nps_score,feedback_text
+u0958,2025-03-06T03:54:33,8,Decent experience but could improve.
+u0744,2025-03-25T17:33:36,6,"Too slow, buggy or hard to navigate."
+u0390,2025-03-28T18:54:21,8,Decent experience but could improve.
+u0542,2025-03-25T22:04:30,10,"Very smooth, fast, and intuitive!"
+u0085,2025-03-09T00:11:40,6,"Too slow, buggy or hard to navigate."
+u0068,2025-03-25T05:40:06,6,"Too slow, buggy or hard to navigate."
+u0708,2025-03-23T13:40:26,10,"Very smooth, fast, and intuitive!"
+u0102,2025-03-23T14:33:26,8,Decent experience but could improve.
+u0925,2025-03-22T17:49:24,5,"Too slow, buggy or hard to navigate."
+u0027,2025-03-22T14:43:18,8,Decent experience but could improve.
+u0297,2025-03-11T10:07:41,5,"Too slow, buggy or hard to navigate."
+u0074,2025-03-08T19:04:36,5,"Too slow, buggy or hard to navigate."
+u0260,2025-03-17T11:55:29,7,Decent experience but could improve.
+u0350,2025-03-07T18:28:51,2,"Too slow, buggy or hard to navigate."
+u0717,2025-03-02T11:44:29,2,"Too slow, buggy or hard to navigate."
+u0080,2025-03-07T07:22:33,5,"Too slow, buggy or hard to navigate."
+u0463,2025-03-09T07:45:42,4,"Too slow, buggy or hard to navigate."
+u0921,2025-03-05T13:41:14,7,Decent experience but could improve.
+u0313,2025-03-11T23:34:25,4,"Too slow, buggy or hard to navigate."
+u0601,2025-03-28T18:22:55,3,"Too slow, buggy or hard to navigate."
+u0061,2025-03-18T06:48:11,10,"Very smooth, fast, and intuitive!"
+u0423,2025-03-16T14:52:07,6,"Too slow, buggy or hard to navigate."
+u0269,2025-03-17T19:26:42,7,Decent experience but could improve.
+u0800,2025-03-04T12:46:53,3,"Too slow, buggy or hard to navigate."
+u0677,2025-03-01T23:02:07,5,"Too slow, buggy or hard to navigate."
+u0446,2025-03-18T18:14:46,7,Decent experience but could improve.
+u0206,2025-03-12T01:49:52,4,"Too slow, buggy or hard to navigate."
+u0362,2025-03-28T01:42:43,7,Decent experience but could improve.
+u0971,2025-03-06T21:50:30,5,"Too slow, buggy or hard to navigate."
+u0752,2025-03-20T22:31:59,6,"Too slow, buggy or hard to navigate."
+u0857,2025-03-02T17:39:57,5,"Too slow, buggy or hard to navigate."
+u0750,2025-03-15T15:09:09,10,"Very smooth, fast, and intuitive!"
+u0087,2025-03-12T19:40:58,6,"Too slow, buggy or hard to navigate."
+u0086,2025-03-05T19:25:47,4,"Too slow, buggy or hard to navigate."
+u0293,2025-03-02T23:19:30,9,"Very smooth, fast, and intuitive!"
+u0743,2025-03-15T05:18:04,3,"Too slow, buggy or hard to navigate."
+u0710,2025-03-16T08:47:25,7,Decent experience but could improve.
+u0011,2025-03-12T19:48:25,2,"Too slow, buggy or hard to navigate."
+u0098,2025-03-14T16:05:50,3,"Too slow, buggy or hard to navigate."
+u0615,2025-03-10T05:09:04,7,Decent experience but could improve.
+u0053,2025-03-17T01:17:03,8,Decent experience but could improve.
+u0533,2025-03-24T12:21:40,7,Decent experience but could improve.
+u0853,2025-03-27T19:01:18,6,"Too slow, buggy or hard to navigate."
+u0312,2025-03-17T15:49:48,6,"Too slow, buggy or hard to navigate."
+u0897,2025-03-19T03:51:37,3,"Too slow, buggy or hard to navigate."
+u0576,2025-03-11T01:10:03,5,"Too slow, buggy or hard to navigate."
+u0934,2025-03-28T07:00:30,5,"Too slow, buggy or hard to navigate."
+u0363,2025-03-01T20:41:15,9,"Very smooth, fast, and intuitive!"
+u0220,2025-03-26T03:11:12,7,Decent experience but could improve.
+u0637,2025-03-21T08:34:53,2,"Too slow, buggy or hard to navigate."
+u0922,2025-03-16T03:00:36,7,Decent experience but could improve.
+u0250,2025-03-24T06:06:38,6,"Too slow, buggy or hard to navigate."
+u0066,2025-03-18T08:41:25,5,"Too slow, buggy or hard to navigate."
+u0222,2025-03-16T22:08:14,8,Decent experience but could improve.
+u0661,2025-03-02T01:37:56,9,"Very smooth, fast, and intuitive!"
+u0574,2025-03-01T05:28:18,9,"Very smooth, fast, and intuitive!"
+u0594,2025-03-16T06:51:51,4,"Too slow, buggy or hard to navigate."
+u0324,2025-03-24T15:36:42,6,"Too slow, buggy or hard to navigate."
+u0382,2025-03-27T08:08:12,7,Decent experience but could improve.
+u0451,2025-03-26T16:46:52,9,"Very smooth, fast, and intuitive!"
+u0082,2025-03-21T21:36:45,5,"Too slow, buggy or hard to navigate."
+u0697,2025-03-30T08:05:44,6,"Too slow, buggy or hard to navigate."
+u0479,2025-03-11T19:53:44,4,"Too slow, buggy or hard to navigate."
+u0668,2025-03-25T21:05:31,4,"Too slow, buggy or hard to navigate."
+u0612,2025-03-10T09:06:28,9,"Very smooth, fast, and intuitive!"
+u0713,2025-03-22T03:19:02,10,"Very smooth, fast, and intuitive!"
+u0957,2025-03-09T08:44:15,6,"Too slow, buggy or hard to navigate."
+u0243,2025-03-15T05:36:36,9,"Very smooth, fast, and intuitive!"
+u0422,2025-03-11T21:43:02,7,Decent experience but could improve.
+u0347,2025-03-17T09:09:30,5,"Too slow, buggy or hard to navigate."
+u0335,2025-03-19T10:05:22,7,Decent experience but could improve.
+u0227,2025-03-25T03:58:54,10,"Very smooth, fast, and intuitive!"
+u0141,2025-03-31T21:35:14,6,"Too slow, buggy or hard to navigate."
+u0251,2025-03-05T04:52:54,10,"Very smooth, fast, and intuitive!"
+u0153,2025-03-27T18:33:30,0,"Too slow, buggy or hard to navigate."
+u0455,2025-03-19T05:11:09,9,"Very smooth, fast, and intuitive!"
+u0235,2025-03-25T19:51:48,7,Decent experience but could improve.
+u0200,2025-03-22T12:09:14,6,"Too slow, buggy or hard to navigate."
+u0469,2025-03-24T01:09:05,7,Decent experience but could improve.
+u0961,2025-03-31T06:22:04,2,"Too slow, buggy or hard to navigate."
+u0124,2025-03-31T17:28:39,6,"Too slow, buggy or hard to navigate."
+u0544,2025-03-30T10:01:31,7,Decent experience but could improve.
+u0012,2025-03-24T21:41:11,10,"Very smooth, fast, and intuitive!"
+u0187,2025-03-26T09:33:23,5,"Too slow, buggy or hard to navigate."
+u0351,2025-03-02T15:01:40,4,"Too slow, buggy or hard to navigate."
+u0847,2025-03-23T01:09:50,5,"Too slow, buggy or hard to navigate."
+u0046,2025-03-13T16:19:55,9,"Very smooth, fast, and intuitive!"
+u0645,2025-03-27T19:02:48,7,Decent experience but could improve.
+u0885,2025-03-08T16:51:55,5,"Too slow, buggy or hard to navigate."
+u0135,2025-03-27T01:36:22,8,Decent experience but could improve.
+u0749,2025-03-08T22:31:01,7,Decent experience but could improve.
+u0683,2025-03-07T22:07:30,9,"Very smooth, fast, and intuitive!"
+u0158,2025-03-13T20:14:22,5,"Too slow, buggy or hard to navigate."
+u0439,2025-03-16T15:07:56,6,"Too slow, buggy or hard to navigate."
+u0406,2025-03-30T16:40:57,6,"Too slow, buggy or hard to navigate."
+u0374,2025-03-04T06:20:53,3,"Too slow, buggy or hard to navigate."
+u0145,2025-03-05T07:03:08,7,Decent experience but could improve.
+u0553,2025-03-15T08:14:03,7,Decent experience but could improve.
+u0667,2025-03-19T05:03:08,7,Decent experience but could improve.
+u0866,2025-03-30T05:45:26,6,"Too slow, buggy or hard to navigate."
+u0977,2025-03-02T07:37:00,3,"Too slow, buggy or hard to navigate."
+u0175,2025-03-21T02:00:40,5,"Too slow, buggy or hard to navigate."
+u0824,2025-03-15T13:34:45,6,"Too slow, buggy or hard to navigate."
+u0413,2025-03-01T23:22:25,4,"Too slow, buggy or hard to navigate."
+u0966,2025-03-12T17:20:43,6,"Too slow, buggy or hard to navigate."
+u0912,2025-03-02T04:53:16,8,Decent experience but could improve.
+u0560,2025-03-29T15:24:02,10,"Very smooth, fast, and intuitive!"
+u0106,2025-03-27T15:31:16,7,Decent experience but could improve.
+u0256,2025-03-02T17:11:07,7,Decent experience but could improve.
+u0675,2025-03-29T20:33:27,6,"Too slow, buggy or hard to navigate."
+u0122,2025-03-02T06:16:04,2,"Too slow, buggy or hard to navigate."
+u0159,2025-03-20T19:02:14,6,"Too slow, buggy or hard to navigate."
+u0854,2025-03-02T16:46:48,7,Decent experience but could improve.
+u0152,2025-03-18T03:07:20,10,"Very smooth, fast, and intuitive!"
+u0262,2025-03-06T02:54:27,6,"Too slow, buggy or hard to navigate."
+u0223,2025-03-13T00:54:58,7,Decent experience but could improve.
+u0016,2025-03-31T11:11:32,6,"Too slow, buggy or hard to navigate."
+u0771,2025-03-26T21:14:34,4,"Too slow, buggy or hard to navigate."
+u0646,2025-03-02T04:31:31,9,"Very smooth, fast, and intuitive!"
+u0270,2025-03-26T20:27:21,8,Decent experience but could improve.
+u0592,2025-03-21T21:20:05,8,Decent experience but could improve.
+u0718,2025-03-29T05:58:02,4,"Too slow, buggy or hard to navigate."
+u0656,2025-03-31T15:13:50,10,"Very smooth, fast, and intuitive!"
+u0392,2025-03-28T12:14:55,3,"Too slow, buggy or hard to navigate."
+u0519,2025-03-02T01:19:08,8,Decent experience but could improve.
+u0321,2025-03-08T22:44:37,10,"Very smooth, fast, and intuitive!"
+u0443,2025-03-19T02:23:53,4,"Too slow, buggy or hard to navigate."
+u0694,2025-03-12T13:49:48,5,"Too slow, buggy or hard to navigate."
+u0305,2025-03-18T07:13:32,7,Decent experience but could improve.
+u0913,2025-03-28T11:15:03,5,"Too slow, buggy or hard to navigate."
+u0289,2025-03-07T10:09:06,3,"Too slow, buggy or hard to navigate."
+u0687,2025-03-30T16:24:10,7,Decent experience but could improve.
+u0728,2025-03-04T04:18:27,4,"Too slow, buggy or hard to navigate."
+u0088,2025-03-07T11:28:35,8,Decent experience but could improve.
+u0724,2025-03-21T03:56:51,4,"Too slow, buggy or hard to navigate."
+u0193,2025-03-07T21:28:32,10,"Very smooth, fast, and intuitive!"
+u0134,2025-03-12T22:05:44,5,"Too slow, buggy or hard to navigate."
+u0837,2025-03-05T17:55:40,6,"Too slow, buggy or hard to navigate."
+u0179,2025-03-24T09:27:33,9,"Very smooth, fast, and intuitive!"
+u0999,2025-03-13T19:57:03,3,"Too slow, buggy or hard to navigate."
+u0059,2025-03-04T15:23:12,7,Decent experience but could improve.
+u0915,2025-03-05T00:09:42,10,"Very smooth, fast, and intuitive!"
+u0495,2025-03-05T15:49:15,2,"Too slow, buggy or hard to navigate."
+u0073,2025-03-17T18:20:01,7,Decent experience but could improve.
+u0041,2025-03-29T07:51:20,7,Decent experience but could improve.
+u0556,2025-03-15T03:22:50,8,Decent experience but could improve.
+u0786,2025-03-12T17:32:08,3,"Too slow, buggy or hard to navigate."
+u0988,2025-03-26T03:21:11,3,"Too slow, buggy or hard to navigate."
+u0887,2025-03-27T09:45:20,8,Decent experience but could improve.
+u0361,2025-03-01T14:43:41,7,Decent experience but could improve.
+u0998,2025-03-20T06:09:56,7,Decent experience but could improve.
+u0367,2025-03-25T10:50:51,7,Decent experience but could improve.
+u0945,2025-03-27T18:02:25,5,"Too slow, buggy or hard to navigate."
+u0597,2025-03-04T04:01:47,7,Decent experience but could improve.
+u0889,2025-03-05T09:00:38,7,Decent experience but could improve.
+u0557,2025-03-11T03:31:37,5,"Too slow, buggy or hard to navigate."
+u0290,2025-03-15T08:19:51,10,"Very smooth, fast, and intuitive!"
+u0797,2025-03-11T20:52:45,8,Decent experience but could improve.
+u0515,2025-03-11T17:53:59,4,"Too slow, buggy or hard to navigate."
+u0532,2025-03-26T05:37:32,8,Decent experience but could improve.
+u0722,2025-03-10T10:29:16,4,"Too slow, buggy or hard to navigate."
+u0119,2025-03-25T21:57:18,8,Decent experience but could improve.
+u0973,2025-03-31T07:00:38,9,"Very smooth, fast, and intuitive!"
+u0621,2025-03-26T16:37:11,4,"Too slow, buggy or hard to navigate."
+u0063,2025-03-13T23:30:14,9,"Very smooth, fast, and intuitive!"
+u0447,2025-03-29T06:55:37,8,Decent experience but could improve.
+u0737,2025-03-30T02:25:35,9,"Very smooth, fast, and intuitive!"
+u0065,2025-03-24T07:21:58,10,"Very smooth, fast, and intuitive!"
+u0593,2025-03-03T02:02:36,6,"Too slow, buggy or hard to navigate."
+u0864,2025-03-18T13:27:22,5,"Too slow, buggy or hard to navigate."
+u0598,2025-03-21T12:44:59,4,"Too slow, buggy or hard to navigate."
+u0740,2025-03-14T01:42:04,4,"Too slow, buggy or hard to navigate."
+u0846,2025-03-10T21:11:58,6,"Too slow, buggy or hard to navigate."
+u0773,2025-03-19T03:05:56,7,Decent experience but could improve.
+u0177,2025-03-16T14:24:26,7,Decent experience but could improve.
+u0076,2025-03-12T10:47:42,9,"Very smooth, fast, and intuitive!"
+u0265,2025-03-22T23:35:51,7,Decent experience but could improve.
+u0169,2025-03-20T10:59:39,10,"Very smooth, fast, and intuitive!"
+u0407,2025-03-03T16:21:51,6,"Too slow, buggy or hard to navigate."
+u0315,2025-03-16T16:00:23,10,"Very smooth, fast, and intuitive!"
+u0841,2025-03-12T19:34:55,8,Decent experience but could improve.
+u0283,2025-03-05T08:26:08,4,"Too slow, buggy or hard to navigate."
+u0709,2025-03-04T15:32:56,4,"Too slow, buggy or hard to navigate."
+u0473,2025-03-11T19:27:58,8,Decent experience but could improve.
+u0705,2025-03-31T15:15:36,6,"Too slow, buggy or hard to navigate."
+u0782,2025-03-09T16:44:24,8,Decent experience but could improve.
+u0429,2025-03-30T01:39:23,8,Decent experience but could improve.
+u0268,2025-03-27T06:31:57,6,"Too slow, buggy or hard to navigate."
+u0069,2025-03-14T01:00:20,4,"Too slow, buggy or hard to navigate."
+u0477,2025-03-03T15:41:49,3,"Too slow, buggy or hard to navigate."
+u0242,2025-03-18T01:36:59,5,"Too slow, buggy or hard to navigate."
+u0940,2025-03-31T09:10:08,9,"Very smooth, fast, and intuitive!"
+u0278,2025-03-16T09:40:57,7,Decent experience but could improve.
+u0100,2025-03-07T14:58:26,3,"Too slow, buggy or hard to navigate."
+u0062,2025-03-19T23:22:44,7,Decent experience but could improve.
+u0520,2025-03-29T10:29:13,7,Decent experience but could improve.
+u0641,2025-03-28T13:54:11,4,"Too slow, buggy or hard to navigate."
+u0540,2025-03-31T20:24:05,7,Decent experience but could improve.
+u0664,2025-03-02T13:10:53,7,Decent experience but could improve.
+u0497,2025-03-10T23:35:57,4,"Too slow, buggy or hard to navigate."
+u0552,2025-03-22T14:32:09,7,Decent experience but could improve.
+u0228,2025-03-08T12:15:59,8,Decent experience but could improve.
+u0314,2025-03-23T09:57:52,9,"Very smooth, fast, and intuitive!"
+u0415,2025-03-26T03:06:50,9,"Very smooth, fast, and intuitive!"
+u0101,2025-03-11T08:54:55,3,"Too slow, buggy or hard to navigate."
+u0567,2025-03-02T11:23:30,4,"Too slow, buggy or hard to navigate."
+u0521,2025-03-07T23:54:22,8,Decent experience but could improve.
+u0319,2025-03-17T15:40:07,8,Decent experience but could improve.
+u0360,2025-03-08T17:28:30,8,Decent experience but could improve.
+u0188,2025-03-15T06:00:46,10,"Very smooth, fast, and intuitive!"
+u0258,2025-03-12T07:53:48,8,Decent experience but could improve.
+u0249,2025-03-24T21:38:11,9,"Very smooth, fast, and intuitive!"
+u0296,2025-03-21T05:53:23,9,"Very smooth, fast, and intuitive!"
+u0700,2025-03-23T20:33:36,8,Decent experience but could improve.
+u0693,2025-03-03T11:05:28,6,"Too slow, buggy or hard to navigate."
+u0323,2025-03-14T22:13:09,8,Decent experience but could improve.
+u0148,2025-03-14T19:07:48,5,"Too slow, buggy or hard to navigate."
+u0872,2025-03-12T02:49:16,6,"Too slow, buggy or hard to navigate."
+u0234,2025-03-05T14:39:31,5,"Too slow, buggy or hard to navigate."
+u0411,2025-03-25T17:41:39,7,Decent experience but could improve.
+u0523,2025-03-08T21:26:23,10,"Very smooth, fast, and intuitive!"
+u0006,2025-03-01T19:09:00,2,"Too slow, buggy or hard to navigate."
+u0083,2025-03-28T22:55:37,8,Decent experience but could improve.
+u0501,2025-03-14T21:25:49,2,"Too slow, buggy or hard to navigate."
+u0057,2025-03-28T23:44:23,5,"Too slow, buggy or hard to navigate."
+u0565,2025-03-29T09:20:33,9,"Very smooth, fast, and intuitive!"
+u0211,2025-03-22T08:22:04,7,Decent experience but could improve.
+u0903,2025-03-21T19:13:33,4,"Too slow, buggy or hard to navigate."
+u0474,2025-03-07T17:44:30,5,"Too slow, buggy or hard to navigate."
+u0944,2025-03-09T01:30:40,8,Decent experience but could improve.
+u0482,2025-03-23T05:42:03,5,"Too slow, buggy or hard to navigate."
+u0009,2025-03-12T11:55:59,7,Decent experience but could improve.
+u0040,2025-03-06T19:22:52,7,Decent experience but could improve.
+u0280,2025-03-28T09:52:38,5,"Too slow, buggy or hard to navigate."
+u0816,2025-03-23T01:09:17,10,"Very smooth, fast, and intuitive!"
+u0010,2025-03-22T02:07:36,8,Decent experience but could improve.
+u0845,2025-03-27T08:03:38,1,"Too slow, buggy or hard to navigate."
+u0342,2025-03-21T13:05:53,7,Decent experience but could improve.
+u0923,2025-03-07T05:09:26,5,"Too slow, buggy or hard to navigate."
+u0185,2025-03-09T10:21:44,9,"Very smooth, fast, and intuitive!"
+u0118,2025-03-11T15:58:22,5,"Too slow, buggy or hard to navigate."
+u0758,2025-03-14T18:13:43,6,"Too slow, buggy or hard to navigate."
+u0488,2025-03-18T09:00:51,8,Decent experience but could improve.
+u0364,2025-03-07T11:41:09,9,"Very smooth, fast, and intuitive!"
+u0772,2025-03-03T14:14:04,3,"Too slow, buggy or hard to navigate."
+u0849,2025-03-13T01:24:08,6,"Too slow, buggy or hard to navigate."
+u0072,2025-03-16T17:27:11,5,"Too slow, buggy or hard to navigate."
+u0294,2025-03-07T18:59:19,5,"Too slow, buggy or hard to navigate."
+u0702,2025-03-14T14:17:45,10,"Very smooth, fast, and intuitive!"
+u0414,2025-03-29T16:32:48,8,Decent experience but could improve.
+u0630,2025-03-07T16:53:57,3,"Too slow, buggy or hard to navigate."
+u0379,2025-03-17T19:25:09,9,"Very smooth, fast, and intuitive!"
+u0284,2025-03-30T14:55:30,10,"Very smooth, fast, and intuitive!"
+u0391,2025-03-23T19:49:24,9,"Very smooth, fast, and intuitive!"
+u0014,2025-03-23T14:03:23,3,"Too slow, buggy or hard to navigate."
+u0508,2025-03-15T03:50:51,5,"Too slow, buggy or hard to navigate."
+u0751,2025-03-20T16:36:46,10,"Very smooth, fast, and intuitive!"
+u0937,2025-03-31T03:49:56,5,"Too slow, buggy or hard to navigate."
+u0546,2025-03-24T07:01:49,8,Decent experience but could improve.
+u0147,2025-03-06T00:25:52,8,Decent experience but could improve.
+u0201,2025-03-20T23:46:12,4,"Too slow, buggy or hard to navigate."
+u0108,2025-03-05T08:26:37,6,"Too slow, buggy or hard to navigate."
+u0653,2025-03-25T06:45:09,0,"Too slow, buggy or hard to navigate."
+u0299,2025-03-31T14:59:30,4,"Too slow, buggy or hard to navigate."
+u0376,2025-03-16T17:14:38,6,"Too slow, buggy or hard to navigate."
+u0457,2025-03-30T06:19:21,3,"Too slow, buggy or hard to navigate."
+u0975,2025-03-06T17:28:52,10,"Very smooth, fast, and intuitive!"
+u0121,2025-03-22T14:38:02,3,"Too slow, buggy or hard to navigate."
+u0116,2025-03-28T18:06:36,5,"Too slow, buggy or hard to navigate."
+u0055,2025-03-05T08:06:50,7,Decent experience but could improve.
+u0156,2025-03-06T07:48:27,10,"Very smooth, fast, and intuitive!"
+u0191,2025-03-28T06:05:49,3,"Too slow, buggy or hard to navigate."
+u0757,2025-03-28T20:51:44,9,"Very smooth, fast, and intuitive!"
+u0968,2025-03-28T23:07:08,7,Decent experience but could improve.
+u0303,2025-03-29T00:14:22,4,"Too slow, buggy or hard to navigate."
+u0304,2025-03-15T12:16:49,8,Decent experience but could improve.
+u0843,2025-03-22T15:44:28,7,Decent experience but could improve.
+u0286,2025-03-17T04:15:31,5,"Too slow, buggy or hard to navigate."
+u0555,2025-03-18T20:28:43,7,Decent experience but could improve.
+u0783,2025-03-25T02:36:40,6,"Too slow, buggy or hard to navigate."
+u0089,2025-03-19T12:54:21,7,Decent experience but could improve.
+u0231,2025-03-11T17:09:45,8,Decent experience but could improve.
+u0172,2025-03-15T10:16:18,10,"Very smooth, fast, and intuitive!"
+u0436,2025-03-28T09:40:00,3,"Too slow, buggy or hard to navigate."
+u0619,2025-03-15T14:01:20,10,"Very smooth, fast, and intuitive!"
+u0464,2025-03-23T21:59:26,2,"Too slow, buggy or hard to navigate."
+u0659,2025-03-14T03:40:08,6,"Too slow, buggy or hard to navigate."
+u0833,2025-03-24T22:41:58,8,Decent experience but could improve.
+u0496,2025-03-02T03:45:30,7,Decent experience but could improve.
+u0674,2025-03-14T22:08:38,5,"Too slow, buggy or hard to navigate."
+u0684,2025-03-06T02:46:21,6,"Too slow, buggy or hard to navigate."
+u0638,2025-03-01T22:15:14,5,"Too slow, buggy or hard to navigate."
+u0241,2025-03-21T19:34:17,5,"Too slow, buggy or hard to navigate."
+u0826,2025-03-08T02:10:49,9,"Very smooth, fast, and intuitive!"
+u0900,2025-03-20T05:12:53,7,Decent experience but could improve.
+u0378,2025-03-10T12:59:21,5,"Too slow, buggy or hard to navigate."
+u0526,2025-03-02T00:09:11,9,"Very smooth, fast, and intuitive!"
+u0416,2025-03-10T22:39:14,7,Decent experience but could improve.
+u0767,2025-03-13T19:22:18,9,"Very smooth, fast, and intuitive!"
+u0761,2025-03-16T23:24:18,8,Decent experience but could improve.
+u0499,2025-03-24T01:52:29,4,"Too slow, buggy or hard to navigate."
+u0812,2025-03-17T20:53:19,5,"Too slow, buggy or hard to navigate."
+u0665,2025-03-08T15:50:15,8,Decent experience but could improve.
+u0336,2025-03-23T03:36:49,8,Decent experience but could improve.
+u0459,2025-03-13T04:33:44,6,"Too slow, buggy or hard to navigate."
+u0038,2025-03-06T05:59:31,7,Decent experience but could improve.
+u0114,2025-03-15T23:17:28,10,"Very smooth, fast, and intuitive!"
+u0389,2025-03-02T01:39:04,5,"Too slow, buggy or hard to navigate."
+u0965,2025-03-24T06:28:02,8,Decent experience but could improve.
+u0248,2025-03-13T03:21:47,6,"Too slow, buggy or hard to navigate."
+u0620,2025-03-14T15:54:49,6,"Too slow, buggy or hard to navigate."
+u0302,2025-03-19T12:46:42,9,"Very smooth, fast, and intuitive!"
+u0226,2025-03-07T10:48:51,9,"Very smooth, fast, and intuitive!"
+u0403,2025-03-08T06:34:10,9,"Very smooth, fast, and intuitive!"
+u0703,2025-03-20T12:22:22,10,"Very smooth, fast, and intuitive!"
+u0326,2025-03-02T14:10:36,7,Decent experience but could improve.
+u0105,2025-03-22T09:26:34,8,Decent experience but could improve.
+u0809,2025-03-13T00:51:50,6,"Too slow, buggy or hard to navigate."
+u0130,2025-03-01T03:18:40,7,Decent experience but could improve.
+u0681,2025-03-28T13:27:30,6,"Too slow, buggy or hard to navigate."
+u0129,2025-03-26T12:54:16,7,Decent experience but could improve.
+u0483,2025-03-04T14:30:14,8,Decent experience but could improve.
+u0982,2025-03-14T00:15:21,4,"Too slow, buggy or hard to navigate."
+u0460,2025-03-16T06:30:46,10,"Very smooth, fast, and intuitive!"
+u0774,2025-03-18T20:40:51,4,"Too slow, buggy or hard to navigate."
+u0071,2025-03-22T19:32:12,3,"Too slow, buggy or hard to navigate."
+u0716,2025-03-28T23:31:39,9,"Very smooth, fast, and intuitive!"
+u0541,2025-03-13T11:50:47,8,Decent experience but could improve.
+u0858,2025-03-17T08:19:07,8,Decent experience but could improve.
+u0295,2025-03-02T21:27:32,8,Decent experience but could improve.
+u0025,2025-03-17T08:09:23,6,"Too slow, buggy or hard to navigate."
+u0410,2025-03-30T15:52:34,4,"Too slow, buggy or hard to navigate."
+u0142,2025-03-14T23:49:22,7,Decent experience but could improve.
+u0893,2025-03-10T03:23:02,5,"Too slow, buggy or hard to navigate."
+u0358,2025-03-28T15:06:48,9,"Very smooth, fast, and intuitive!"
+u0137,2025-03-12T00:35:32,6,"Too slow, buggy or hard to navigate."
+u0510,2025-03-26T17:13:23,4,"Too slow, buggy or hard to navigate."
+u0927,2025-03-23T14:11:27,6,"Too slow, buggy or hard to navigate."
+u0840,2025-03-12T14:16:17,8,Decent experience but could improve.
+u0720,2025-03-16T08:41:45,5,"Too slow, buggy or hard to navigate."
+u0662,2025-03-18T12:46:49,4,"Too slow, buggy or hard to navigate."
+u0371,2025-03-15T13:24:14,7,Decent experience but could improve.
+u0345,2025-03-03T16:15:32,7,Decent experience but could improve.
+u0956,2025-03-03T10:21:17,5,"Too slow, buggy or hard to navigate."
+u0578,2025-03-12T06:12:51,5,"Too slow, buggy or hard to navigate."
+u0343,2025-03-06T11:17:02,7,Decent experience but could improve.
+u0318,2025-03-03T09:46:45,3,"Too slow, buggy or hard to navigate."
+u0380,2025-03-24T21:28:03,3,"Too slow, buggy or hard to navigate."
+u0461,2025-03-04T23:28:40,5,"Too slow, buggy or hard to navigate."
+u0993,2025-03-24T02:01:47,6,"Too slow, buggy or hard to navigate."
+u0511,2025-03-30T20:47:01,7,Decent experience but could improve.
+u0369,2025-03-26T00:47:00,10,"Very smooth, fast, and intuitive!"
+u0174,2025-03-21T11:46:37,9,"Very smooth, fast, and intuitive!"
+u0409,2025-03-28T07:44:06,6,"Too slow, buggy or hard to navigate."
+u0096,2025-03-19T00:49:03,6,"Too slow, buggy or hard to navigate."
+u0279,2025-03-10T01:32:03,4,"Too slow, buggy or hard to navigate."
+u0161,2025-03-02T09:46:21,6,"Too slow, buggy or hard to navigate."
+u0917,2025-03-24T10:33:57,6,"Too slow, buggy or hard to navigate."
+u0042,2025-03-09T03:50:21,7,Decent experience but could improve.
+u0941,2025-03-28T20:10:52,4,"Too slow, buggy or hard to navigate."
+u0614,2025-03-04T16:48:56,8,Decent experience but could improve.
+u0842,2025-03-14T20:32:55,10,"Very smooth, fast, and intuitive!"
+u0707,2025-03-08T12:30:16,6,"Too slow, buggy or hard to navigate."
+u0503,2025-03-02T20:10:54,8,Decent experience but could improve.
+u0799,2025-03-25T07:57:03,8,Decent experience but could improve.
+u0035,2025-03-23T17:07:44,5,"Too slow, buggy or hard to navigate."
+u0817,2025-03-30T23:06:16,7,Decent experience but could improve.
+u0730,2025-03-02T01:46:34,7,Decent experience but could improve.
+u0151,2025-03-26T14:13:39,7,Decent experience but could improve.
+u0039,2025-03-11T18:40:10,5,"Too slow, buggy or hard to navigate."
+u0468,2025-03-14T18:30:06,7,Decent experience but could improve.
+u0020,2025-03-22T23:28:00,8,Decent experience but could improve.
+u0366,2025-03-27T21:20:56,10,"Very smooth, fast, and intuitive!"
+u0205,2025-03-06T07:40:37,9,"Very smooth, fast, and intuitive!"
+u0259,2025-03-29T08:11:53,10,"Very smooth, fast, and intuitive!"
+u0862,2025-03-30T17:41:50,5,"Too slow, buggy or hard to navigate."
+u0779,2025-03-20T05:09:56,9,"Very smooth, fast, and intuitive!"
+u0828,2025-03-01T14:45:38,7,Decent experience but could improve.
+u0440,2025-03-07T19:34:56,10,"Very smooth, fast, and intuitive!"
+u0815,2025-03-01T17:21:39,4,"Too slow, buggy or hard to navigate."
+u0870,2025-03-26T14:20:15,4,"Too slow, buggy or hard to navigate."
+u0388,2025-03-19T14:53:56,5,"Too slow, buggy or hard to navigate."
+u0043,2025-03-20T18:06:42,1,"Too slow, buggy or hard to navigate."
+u0777,2025-03-05T21:45:35,5,"Too slow, buggy or hard to navigate."
+u0024,2025-03-02T02:03:49,5,"Too slow, buggy or hard to navigate."
+u0531,2025-03-13T09:50:32,7,Decent experience but could improve.
+u0337,2025-03-08T23:15:41,7,Decent experience but could improve.
+u0651,2025-03-25T20:22:56,10,"Very smooth, fast, and intuitive!"
+u0603,2025-03-27T11:18:25,9,"Very smooth, fast, and intuitive!"
+u0721,2025-03-05T18:54:36,5,"Too slow, buggy or hard to navigate."
+u0778,2025-03-05T09:03:40,4,"Too slow, buggy or hard to navigate."
+u0879,2025-03-19T15:30:54,8,Decent experience but could improve.
+u0946,2025-03-08T21:20:23,3,"Too slow, buggy or hard to navigate."
+u0768,2025-03-04T14:42:15,10,"Very smooth, fast, and intuitive!"
+u0719,2025-03-28T08:40:24,9,"Very smooth, fast, and intuitive!"
+u0126,2025-03-29T19:41:40,5,"Too slow, buggy or hard to navigate."
+u0785,2025-03-17T18:21:55,2,"Too slow, buggy or hard to navigate."
+u0330,2025-03-21T18:43:10,10,"Very smooth, fast, and intuitive!"
+u0214,2025-03-15T00:41:38,6,"Too slow, buggy or hard to navigate."
+u0795,2025-03-11T04:49:11,10,"Very smooth, fast, and intuitive!"
+u0195,2025-03-16T14:29:51,3,"Too slow, buggy or hard to navigate."
+u0873,2025-03-17T07:15:02,5,"Too slow, buggy or hard to navigate."
+u0387,2025-03-15T22:48:39,7,Decent experience but could improve.
+u0733,2025-03-08T12:03:06,7,Decent experience but could improve.
+u0953,2025-03-09T18:50:04,5,"Too slow, buggy or hard to navigate."
+u0247,2025-03-27T23:35:45,8,Decent experience but could improve.
+u0582,2025-03-26T14:10:34,4,"Too slow, buggy or hard to navigate."
+u0642,2025-03-13T20:48:00,6,"Too slow, buggy or hard to navigate."
+u0820,2025-03-04T10:19:20,7,Decent experience but could improve.
+u0207,2025-03-26T04:51:09,8,Decent experience but could improve.
+u0049,2025-03-11T11:58:52,8,Decent experience but could improve.
+u0167,2025-03-10T05:11:24,4,"Too slow, buggy or hard to navigate."
+u0165,2025-03-11T23:52:27,3,"Too slow, buggy or hard to navigate."
+u0213,2025-03-26T11:40:57,10,"Very smooth, fast, and intuitive!"
+u0804,2025-03-12T21:48:14,7,Decent experience but could improve.
+u0491,2025-03-19T05:36:08,5,"Too slow, buggy or hard to navigate."
+u0420,2025-03-26T18:57:08,10,"Very smooth, fast, and intuitive!"
+u0678,2025-03-31T12:27:26,7,Decent experience but could improve.
+u0273,2025-03-22T08:37:41,9,"Very smooth, fast, and intuitive!"
+u0208,2025-03-07T20:19:02,7,Decent experience but could improve.
+u0095,2025-03-29T18:03:55,10,"Very smooth, fast, and intuitive!"
+u0625,2025-03-13T11:44:46,10,"Very smooth, fast, and intuitive!"
+u0007,2025-03-21T17:26:34,6,"Too slow, buggy or hard to navigate."
+u0682,2025-03-12T20:13:57,9,"Very smooth, fast, and intuitive!"
+u0233,2025-03-05T09:23:11,8,Decent experience but could improve.
+u0652,2025-03-01T20:10:17,10,"Very smooth, fast, and intuitive!"
+u0115,2025-03-08T09:36:03,4,"Too slow, buggy or hard to navigate."
+u0498,2025-03-04T12:56:18,8,Decent experience but could improve.
+u0590,2025-03-17T12:28:14,9,"Very smooth, fast, and intuitive!"
+u0225,2025-03-18T07:38:24,2,"Too slow, buggy or hard to navigate."
+u0905,2025-03-19T06:56:40,4,"Too slow, buggy or hard to navigate."
+u0690,2025-03-13T14:37:32,1,"Too slow, buggy or hard to navigate."
+u0528,2025-03-02T12:04:17,6,"Too slow, buggy or hard to navigate."
+u0878,2025-03-31T13:26:17,8,Decent experience but could improve.
+u0672,2025-03-22T23:03:30,10,"Very smooth, fast, and intuitive!"
+u0970,2025-03-07T16:03:22,7,Decent experience but could improve.
+u0994,2025-03-24T18:38:23,10,"Very smooth, fast, and intuitive!"
+u0125,2025-03-06T20:53:18,3,"Too slow, buggy or hard to navigate."
+u0822,2025-03-04T11:54:06,2,"Too slow, buggy or hard to navigate."
+u0263,2025-03-19T12:59:33,6,"Too slow, buggy or hard to navigate."
+u0980,2025-03-01T16:56:31,7,Decent experience but could improve.
+u0585,2025-03-24T03:39:58,6,"Too slow, buggy or hard to navigate."
+u0393,2025-03-14T04:33:54,1,"Too slow, buggy or hard to navigate."
+u0030,2025-03-15T18:20:24,6,"Too slow, buggy or hard to navigate."
+u0077,2025-03-25T13:32:59,3,"Too slow, buggy or hard to navigate."
+u0327,2025-03-10T17:43:29,8,Decent experience but could improve.
+u0856,2025-03-09T05:22:55,7,Decent experience but could improve.
+u0616,2025-03-19T01:32:58,4,"Too slow, buggy or hard to navigate."
+u0798,2025-03-12T17:21:29,5,"Too slow, buggy or hard to navigate."
+u0571,2025-03-27T19:06:01,4,"Too slow, buggy or hard to navigate."
+u0537,2025-03-19T13:00:17,6,"Too slow, buggy or hard to navigate."
+u0372,2025-03-21T18:47:51,9,"Very smooth, fast, and intuitive!"
+u0186,2025-03-30T23:38:59,4,"Too slow, buggy or hard to navigate."
+u0880,2025-03-31T09:37:13,8,Decent experience but could improve.
+u0430,2025-03-05T22:28:24,5,"Too slow, buggy or hard to navigate."
+u0090,2025-03-28T12:00:15,5,"Too slow, buggy or hard to navigate."
+u0272,2025-03-30T06:30:01,6,"Too slow, buggy or hard to navigate."
+u0599,2025-03-10T22:22:23,4,"Too slow, buggy or hard to navigate."
+u0602,2025-03-14T16:39:33,5,"Too slow, buggy or hard to navigate."
+u0139,2025-03-06T13:41:09,4,"Too slow, buggy or hard to navigate."
+u0712,2025-03-19T13:57:15,10,"Very smooth, fast, and intuitive!"
+u0026,2025-03-03T21:48:36,7,Decent experience but could improve.
+u0954,2025-03-21T03:39:55,5,"Too slow, buggy or hard to navigate."
+u0252,2025-03-27T06:24:49,7,Decent experience but could improve.
+u0107,2025-03-07T19:50:27,6,"Too slow, buggy or hard to navigate."
+u0449,2025-03-01T12:07:26,6,"Too slow, buggy or hard to navigate."
+u0865,2025-03-02T18:50:31,8,Decent experience but could improve.
+u0607,2025-03-25T09:04:42,8,Decent experience but could improve.
+u0534,2025-03-08T11:26:47,5,"Too slow, buggy or hard to navigate."
+u0133,2025-03-01T11:22:07,5,"Too slow, buggy or hard to navigate."
+u0587,2025-03-06T12:41:19,6,"Too slow, buggy or hard to navigate."
+u0902,2025-03-17T12:59:53,1,"Too slow, buggy or hard to navigate."
+u0605,2025-03-23T07:33:48,3,"Too slow, buggy or hard to navigate."
+u0050,2025-03-21T20:07:52,10,"Very smooth, fast, and intuitive!"
+u0676,2025-03-24T14:25:40,10,"Very smooth, fast, and intuitive!"
+u0522,2025-03-17T06:59:53,6,"Too slow, buggy or hard to navigate."
+u0679,2025-03-11T04:24:49,8,Decent experience but could improve.
+u0092,2025-03-03T22:31:18,7,Decent experience but could improve.
+u0548,2025-03-02T07:23:55,10,"Very smooth, fast, and intuitive!"
+u0549,2025-03-28T23:52:37,9,"Very smooth, fast, and intuitive!"
+u0399,2025-03-12T20:31:22,6,"Too slow, buggy or hard to navigate."
+u0604,2025-03-07T16:14:48,4,"Too slow, buggy or hard to navigate."
+u0400,2025-03-26T13:11:24,2,"Too slow, buggy or hard to navigate."
+u0581,2025-03-13T08:37:50,7,Decent experience but could improve.
+u0570,2025-03-17T20:08:43,5,"Too slow, buggy or hard to navigate."
+u0500,2025-03-12T14:10:12,3,"Too slow, buggy or hard to navigate."
+u0633,2025-03-18T12:45:30,5,"Too slow, buggy or hard to navigate."
+u0218,2025-03-08T03:11:41,4,"Too slow, buggy or hard to navigate."
+u0775,2025-03-27T21:59:01,10,"Very smooth, fast, and intuitive!"
+u0424,2025-03-23T08:37:59,9,"Very smooth, fast, and intuitive!"
+u0094,2025-03-26T12:38:02,6,"Too slow, buggy or hard to navigate."
+u0950,2025-03-30T12:54:50,10,"Very smooth, fast, and intuitive!"
+u0640,2025-03-21T15:30:10,7,Decent experience but could improve.
+u0962,2025-03-21T10:59:19,4,"Too slow, buggy or hard to navigate."
+u0575,2025-03-24T06:09:54,10,"Very smooth, fast, and intuitive!"
+u0217,2025-03-20T04:54:15,8,Decent experience but could improve.
+u0454,2025-03-16T23:56:41,4,"Too slow, buggy or hard to navigate."
+u1000,2025-03-15T19:26:26,6,"Too slow, buggy or hard to navigate."
+u0726,2025-03-06T07:13:39,4,"Too slow, buggy or hard to navigate."
+u0907,2025-03-31T14:36:35,3,"Too slow, buggy or hard to navigate."
+u0802,2025-03-18T02:32:32,9,"Very smooth, fast, and intuitive!"
+u0793,2025-03-29T08:42:12,10,"Very smooth, fast, and intuitive!"
+u0691,2025-03-26T02:52:23,3,"Too slow, buggy or hard to navigate."
+u0333,2025-03-09T08:50:31,8,Decent experience but could improve.
+u0609,2025-03-10T04:46:36,5,"Too slow, buggy or hard to navigate."
+u0221,2025-03-01T09:06:25,5,"Too slow, buggy or hard to navigate."
+u0300,2025-03-06T11:20:53,5,"Too slow, buggy or hard to navigate."
+u0932,2025-03-20T08:11:36,4,"Too slow, buggy or hard to navigate."
+u0385,2025-03-24T22:08:25,7,Decent experience but could improve.
+u0898,2025-03-15T15:38:43,4,"Too slow, buggy or hard to navigate."
+u0972,2025-03-17T09:29:04,7,Decent experience but could improve.
+u0627,2025-03-30T18:47:23,6,"Too slow, buggy or hard to navigate."
+u0146,2025-03-09T22:13:30,6,"Too slow, buggy or hard to navigate."
+u0949,2025-03-01T01:32:29,4,"Too slow, buggy or hard to navigate."
+u0384,2025-03-29T00:30:14,5,"Too slow, buggy or hard to navigate."
+u0695,2025-03-13T01:31:54,8,Decent experience but could improve.
+u0685,2025-03-21T07:04:12,8,Decent experience but could improve.
+u0904,2025-03-05T06:44:14,4,"Too slow, buggy or hard to navigate."
+u0331,2025-03-20T13:46:07,7,Decent experience but could improve.
+u0306,2025-03-19T20:20:43,8,Decent experience but could improve.
+u0131,2025-03-20T07:36:50,2,"Too slow, buggy or hard to navigate."
+u0310,2025-03-25T04:10:45,8,Decent experience but could improve.
+u0551,2025-03-23T11:13:48,5,"Too slow, buggy or hard to navigate."
+u0144,2025-03-11T13:51:28,8,Decent experience but could improve.
+u0830,2025-03-23T15:36:29,5,"Too slow, buggy or hard to navigate."
+u0829,2025-03-05T11:43:14,2,"Too slow, buggy or hard to navigate."
+u0535,2025-03-06T19:18:52,2,"Too slow, buggy or hard to navigate."
+u0292,2025-03-06T23:03:19,7,Decent experience but could improve.
+u0381,2025-03-29T13:04:13,7,Decent experience but could improve.
+u0996,2025-03-04T23:01:24,4,"Too slow, buggy or hard to navigate."
+u0128,2025-03-13T11:01:16,8,Decent experience but could improve.
+u0979,2025-03-24T13:53:34,2,"Too slow, buggy or hard to navigate."
+u0924,2025-03-24T12:04:31,6,"Too slow, buggy or hard to navigate."
+u0396,2025-03-08T23:35:54,3,"Too slow, buggy or hard to navigate."
+u0431,2025-03-01T03:08:04,5,"Too slow, buggy or hard to navigate."
+u0204,2025-03-20T06:52:00,7,Decent experience but could improve.
+u0395,2025-03-18T10:51:12,4,"Too slow, buggy or hard to navigate."
+u0013,2025-03-22T09:20:49,6,"Too slow, buggy or hard to navigate."
+u0047,2025-03-01T11:07:26,9,"Very smooth, fast, and intuitive!"
+u0255,2025-03-15T16:26:55,5,"Too slow, buggy or hard to navigate."
+u0821,2025-03-23T12:57:05,9,"Very smooth, fast, and intuitive!"
+u0437,2025-03-03T13:06:53,4,"Too slow, buggy or hard to navigate."
+u0157,2025-03-06T11:22:55,8,Decent experience but could improve.
+u0563,2025-03-14T13:58:30,10,"Very smooth, fast, and intuitive!"
+u0911,2025-03-06T19:56:15,0,"Too slow, buggy or hard to navigate."
+u0418,2025-03-17T11:28:27,5,"Too slow, buggy or hard to navigate."
+u0732,2025-03-28T05:33:55,8,Decent experience but could improve.
+u0467,2025-03-12T07:59:38,6,"Too slow, buggy or hard to navigate."
+u0739,2025-03-25T01:41:02,7,Decent experience but could improve.
+u0254,2025-03-06T03:16:14,5,"Too slow, buggy or hard to navigate."
+u0276,2025-03-14T17:31:41,7,Decent experience but could improve.
+u0755,2025-03-07T19:23:22,6,"Too slow, buggy or hard to navigate."
+u0008,2025-03-28T00:06:32,9,"Very smooth, fast, and intuitive!"
+u0138,2025-03-10T16:21:56,7,Decent experience but could improve.
+u0274,2025-03-14T16:29:08,7,Decent experience but could improve.
+u0834,2025-03-27T17:13:58,5,"Too slow, buggy or hard to navigate."
+u0001,2025-03-26T19:42:20,5,"Too slow, buggy or hard to navigate."
+u0230,2025-03-21T08:57:13,5,"Too slow, buggy or hard to navigate."
+u0352,2025-03-20T01:59:31,7,Decent experience but could improve.
+u0562,2025-03-03T18:19:14,5,"Too slow, buggy or hard to navigate."
+u0989,2025-03-07T19:12:58,7,Decent experience but could improve.
+u0611,2025-03-10T10:11:59,10,"Very smooth, fast, and intuitive!"
+u0394,2025-03-02T08:16:03,9,"Very smooth, fast, and intuitive!"
+u0419,2025-03-23T22:41:59,6,"Too slow, buggy or hard to navigate."
+u0370,2025-03-02T03:30:06,10,"Very smooth, fast, and intuitive!"
+u0452,2025-03-02T07:15:51,5,"Too slow, buggy or hard to navigate."
+u0056,2025-03-21T10:48:18,1,"Too slow, buggy or hard to navigate."
+u0516,2025-03-20T01:53:14,4,"Too slow, buggy or hard to navigate."
+u0825,2025-03-06T06:32:01,2,"Too slow, buggy or hard to navigate."
+u0079,2025-03-26T11:58:36,6,"Too slow, buggy or hard to navigate."
+u0257,2025-03-11T21:48:17,7,Decent experience but could improve.
+u0877,2025-03-02T14:47:05,10,"Very smooth, fast, and intuitive!"
+u0197,2025-03-03T19:08:28,7,Decent experience but could improve.
+u0723,2025-03-18T17:13:07,6,"Too slow, buggy or hard to navigate."
+u0109,2025-03-28T05:04:44,9,"Very smooth, fast, and intuitive!"
+u0162,2025-03-05T07:48:05,1,"Too slow, buggy or hard to navigate."
+u0462,2025-03-21T23:02:01,7,Decent experience but could improve.
+u0408,2025-03-12T23:48:27,8,Decent experience but could improve.
+u0512,2025-03-08T01:46:07,3,"Too slow, buggy or hard to navigate."
+u0417,2025-03-08T08:02:30,9,"Very smooth, fast, and intuitive!"
+u0003,2025-03-14T17:29:36,7,Decent experience but could improve.
+u0770,2025-03-19T19:56:27,5,"Too slow, buggy or hard to navigate."
+u0480,2025-03-08T06:14:52,8,Decent experience but could improve.
+u0910,2025-03-17T20:40:26,10,"Very smooth, fast, and intuitive!"
+u0405,2025-03-31T03:37:04,7,Decent experience but could improve.
+u0348,2025-03-13T15:12:57,7,Decent experience but could improve.
+u0909,2025-03-25T02:58:16,5,"Too slow, buggy or hard to navigate."
+u0190,2025-03-05T13:59:34,4,"Too slow, buggy or hard to navigate."
+u0216,2025-03-27T23:35:44,9,"Very smooth, fast, and intuitive!"
+u0735,2025-03-17T03:55:31,4,"Too slow, buggy or hard to navigate."
+u0155,2025-03-04T22:49:41,7,Decent experience but could improve.
+u0669,2025-03-24T19:22:40,5,"Too slow, buggy or hard to navigate."
+u0099,2025-03-06T23:47:33,8,Decent experience but could improve.
+u0518,2025-03-10T20:54:33,7,Decent experience but could improve.
+u0033,2025-03-23T07:00:29,9,"Very smooth, fast, and intuitive!"
+u0580,2025-03-24T05:32:08,5,"Too slow, buggy or hard to navigate."
+u0806,2025-03-18T07:41:20,6,"Too slow, buggy or hard to navigate."
+u0851,2025-03-06T12:00:04,4,"Too slow, buggy or hard to navigate."
+u0505,2025-03-11T16:34:57,5,"Too slow, buggy or hard to navigate."
+u0869,2025-03-21T10:36:28,7,Decent experience but could improve.
+u0494,2025-03-10T11:11:28,8,Decent experience but could improve.
+u0746,2025-03-11T22:54:00,4,"Too slow, buggy or hard to navigate."
+u0301,2025-03-14T21:07:28,9,"Very smooth, fast, and intuitive!"
+u0031,2025-03-08T13:30:17,10,"Very smooth, fast, and intuitive!"
+u0237,2025-03-18T08:14:37,8,Decent experience but could improve.
+u0441,2025-03-12T09:07:13,10,"Very smooth, fast, and intuitive!"
+u0796,2025-03-03T02:12:05,5,"Too slow, buggy or hard to navigate."
+u0298,2025-03-23T07:11:56,3,"Too slow, buggy or hard to navigate."
+u0763,2025-03-06T15:52:43,2,"Too slow, buggy or hard to navigate."
+u0762,2025-03-15T20:08:25,10,"Very smooth, fast, and intuitive!"
+u0569,2025-03-18T16:32:06,8,Decent experience but could improve.
+u0332,2025-03-28T21:50:06,6,"Too slow, buggy or hard to navigate."
+u0884,2025-03-14T15:18:41,7,Decent experience but could improve.
+u0203,2025-03-04T04:32:00,4,"Too slow, buggy or hard to navigate."
+u0355,2025-03-08T00:04:18,10,"Very smooth, fast, and intuitive!"
+u0325,2025-03-04T09:09:53,7,Decent experience but could improve.
+u0871,2025-03-10T10:54:19,7,Decent experience but could improve.
+u0340,2025-03-10T04:10:55,8,Decent experience but could improve.
+u0466,2025-03-29T01:45:40,8,Decent experience but could improve.
+u0281,2025-03-10T20:27:37,7,Decent experience but could improve.
+u0236,2025-03-29T15:10:47,5,"Too slow, buggy or hard to navigate."
+u0963,2025-03-17T22:34:12,8,Decent experience but could improve.
+u0769,2025-03-30T00:44:54,10,"Very smooth, fast, and intuitive!"
+u0356,2025-03-14T08:04:50,10,"Very smooth, fast, and intuitive!"
+u0595,2025-03-15T14:26:17,10,"Very smooth, fast, and intuitive!"
+u0202,2025-03-13T02:31:57,5,"Too slow, buggy or hard to navigate."
+u0608,2025-03-24T09:38:27,4,"Too slow, buggy or hard to navigate."
+u0171,2025-03-09T19:19:18,6,"Too slow, buggy or hard to navigate."
+u0788,2025-03-19T01:57:52,7,Decent experience but could improve.
+u0583,2025-03-13T11:30:36,9,"Very smooth, fast, and intuitive!"
+u0209,2025-03-19T08:20:59,2,"Too slow, buggy or hard to navigate."
+u0780,2025-03-15T22:39:22,10,"Very smooth, fast, and intuitive!"
+u0434,2025-03-08T00:03:39,6,"Too slow, buggy or hard to navigate."
+u0811,2025-03-03T07:44:36,5,"Too slow, buggy or hard to navigate."
+u0308,2025-03-29T03:41:24,4,"Too slow, buggy or hard to navigate."
+u0093,2025-03-02T12:09:16,2,"Too slow, buggy or hard to navigate."
+u0198,2025-03-23T16:43:58,9,"Very smooth, fast, and intuitive!"
+u0554,2025-03-04T15:41:10,7,Decent experience but could improve.
+u0386,2025-03-25T20:40:42,3,"Too slow, buggy or hard to navigate."
+u0759,2025-03-24T22:02:57,3,"Too slow, buggy or hard to navigate."
+u0084,2025-03-10T08:11:48,6,"Too slow, buggy or hard to navigate."
+u0183,2025-03-19T03:09:45,10,"Very smooth, fast, and intuitive!"
+u0906,2025-03-23T19:09:06,6,"Too slow, buggy or hard to navigate."
+u0309,2025-03-26T11:55:26,3,"Too slow, buggy or hard to navigate."
+u0784,2025-03-29T14:10:47,6,"Too slow, buggy or hard to navigate."
+u0801,2025-03-18T15:50:40,6,"Too slow, buggy or hard to navigate."
+u0886,2025-03-25T17:12:20,0,"Too slow, buggy or hard to navigate."
+u0704,2025-03-10T23:42:57,6,"Too slow, buggy or hard to navigate."
+u0253,2025-03-18T23:49:02,6,"Too slow, buggy or hard to navigate."
+u0648,2025-03-10T16:20:17,8,Decent experience but could improve.
+u0196,2025-03-29T12:03:31,10,"Very smooth, fast, and intuitive!"
+u0901,2025-03-17T14:14:05,9,"Very smooth, fast, and intuitive!"
+u0277,2025-03-24T05:17:31,6,"Too slow, buggy or hard to navigate."
+u0110,2025-03-27T03:24:19,4,"Too slow, buggy or hard to navigate."
+u0465,2025-03-17T17:53:31,10,"Very smooth, fast, and intuitive!"
+u0529,2025-03-11T10:18:52,7,Decent experience but could improve.
+u0104,2025-03-22T00:46:55,7,Decent experience but could improve.
+u0470,2025-03-21T15:38:57,6,"Too slow, buggy or hard to navigate."
+u0044,2025-03-25T11:31:27,7,Decent experience but could improve.
+u0617,2025-03-16T00:14:52,6,"Too slow, buggy or hard to navigate."
+u0655,2025-03-23T05:29:50,5,"Too slow, buggy or hard to navigate."
+u0344,2025-03-28T05:36:44,5,"Too slow, buggy or hard to navigate."
+u0123,2025-03-10T12:13:21,6,"Too slow, buggy or hard to navigate."
+u0808,2025-03-18T12:34:44,5,"Too slow, buggy or hard to navigate."
+u0545,2025-03-05T16:34:28,5,"Too slow, buggy or hard to navigate."
+u0154,2025-03-16T04:28:50,7,Decent experience but could improve.
+u0600,2025-03-27T08:35:19,6,"Too slow, buggy or hard to navigate."
+u0868,2025-03-01T23:38:34,10,"Very smooth, fast, and intuitive!"
+u0015,2025-03-12T22:15:59,0,"Too slow, buggy or hard to navigate."
+u0538,2025-03-25T17:07:02,9,"Very smooth, fast, and intuitive!"
+u0509,2025-03-14T03:57:47,10,"Very smooth, fast, and intuitive!"
+u0789,2025-03-27T19:43:39,1,"Too slow, buggy or hard to navigate."
+u0781,2025-03-21T01:21:53,6,"Too slow, buggy or hard to navigate."
+u0699,2025-03-04T13:20:24,6,"Too slow, buggy or hard to navigate."
+u0819,2025-03-22T13:35:10,3,"Too slow, buggy or hard to navigate."
+u0792,2025-03-04T07:37:17,5,"Too slow, buggy or hard to navigate."
+u0397,2025-03-07T10:40:04,4,"Too slow, buggy or hard to navigate."
+u0860,2025-03-29T03:34:18,10,"Very smooth, fast, and intuitive!"
+u0163,2025-03-06T07:10:13,9,"Very smooth, fast, and intuitive!"
+u0180,2025-03-24T02:18:53,10,"Very smooth, fast, and intuitive!"
+u0539,2025-03-12T01:50:09,8,Decent experience but could improve.
+u0224,2025-03-22T07:33:39,4,"Too slow, buggy or hard to navigate."
+u0892,2025-03-08T17:15:00,5,"Too slow, buggy or hard to navigate."
+u0182,2025-03-27T23:19:37,8,Decent experience but could improve.
+u0967,2025-03-16T17:36:37,3,"Too slow, buggy or hard to navigate."
+u0765,2025-03-22T09:18:28,8,Decent experience but could improve.
+u0404,2025-03-29T17:04:37,6,"Too slow, buggy or hard to navigate."
+u0881,2025-03-29T10:49:23,6,"Too slow, buggy or hard to navigate."
+u0997,2025-03-31T15:50:33,8,Decent experience but could improve.
+u0629,2025-03-16T08:38:06,8,Decent experience but could improve.
+u0338,2025-03-24T18:52:05,6,"Too slow, buggy or hard to navigate."
+u0622,2025-03-20T15:04:42,9,"Very smooth, fast, and intuitive!"
+u0876,2025-03-24T00:45:01,4,"Too slow, buggy or hard to navigate."
+u0458,2025-03-01T01:44:32,8,Decent experience but could improve.
+u0908,2025-03-07T04:34:48,8,Decent experience but could improve.
+u0974,2025-03-02T13:40:13,6,"Too slow, buggy or hard to navigate."
+u0164,2025-03-13T08:22:02,7,Decent experience but could improve.
+u0132,2025-03-03T22:53:59,3,"Too slow, buggy or hard to navigate."
+u0524,2025-03-27T17:18:39,9,"Very smooth, fast, and intuitive!"
+u0919,2025-03-26T16:59:15,6,"Too slow, buggy or hard to navigate."
+u0375,2025-03-30T04:07:40,5,"Too slow, buggy or hard to navigate."
+u0018,2025-03-22T04:49:40,9,"Very smooth, fast, and intuitive!"
+u0475,2025-03-26T05:32:55,5,"Too slow, buggy or hard to navigate."
+u0899,2025-03-31T20:06:59,3,"Too slow, buggy or hard to navigate."
+u0316,2025-03-02T10:48:52,3,"Too slow, buggy or hard to navigate."
+u0794,2025-03-23T10:20:58,8,Decent experience but could improve.
+u0933,2025-03-05T10:11:08,3,"Too slow, buggy or hard to navigate."
+u0610,2025-03-27T04:18:19,10,"Very smooth, fast, and intuitive!"
+u0764,2025-03-13T15:21:05,1,"Too slow, buggy or hard to navigate."
+u0514,2025-03-28T01:35:12,10,"Very smooth, fast, and intuitive!"
+u0127,2025-03-25T17:44:14,7,Decent experience but could improve.
+u0978,2025-03-06T21:43:20,6,"Too slow, buggy or hard to navigate."
+u0959,2025-03-27T22:36:33,5,"Too slow, buggy or hard to navigate."
+u0150,2025-03-27T18:44:21,7,Decent experience but could improve.
+u0914,2025-03-26T21:27:23,6,"Too slow, buggy or hard to navigate."
+u0078,2025-03-12T12:22:07,9,"Very smooth, fast, and intuitive!"
+u0034,2025-03-07T10:24:28,7,Decent experience but could improve.
+u0143,2025-03-11T17:47:30,7,Decent experience but could improve.
+u0643,2025-03-12T14:28:24,6,"Too slow, buggy or hard to navigate."
+u0803,2025-03-17T08:13:29,6,"Too slow, buggy or hard to navigate."
+u0412,2025-03-10T19:12:44,7,Decent experience but could improve.
+u0696,2025-03-06T23:35:08,2,"Too slow, buggy or hard to navigate."
+u0149,2025-03-05T16:16:16,3,"Too slow, buggy or hard to navigate."
+u0692,2025-03-16T19:11:17,8,Decent experience but could improve.
+u0525,2025-03-20T07:17:45,7,Decent experience but could improve.
+u0244,2025-03-09T19:06:41,6,"Too slow, buggy or hard to navigate."
+u0969,2025-03-09T23:14:40,7,Decent experience but could improve.
+u0855,2025-03-08T07:16:52,7,Decent experience but could improve.
+u0670,2025-03-29T07:54:04,5,"Too slow, buggy or hard to navigate."
+u0002,2025-03-07T14:39:15,5,"Too slow, buggy or hard to navigate."
+u0918,2025-03-05T09:44:00,7,Decent experience but could improve.
+u0192,2025-03-31T18:30:35,4,"Too slow, buggy or hard to navigate."
+u0976,2025-03-19T01:51:28,8,Decent experience but could improve.
+u0264,2025-03-26T00:10:11,2,"Too slow, buggy or hard to navigate."
+u0023,2025-03-01T03:35:29,9,"Very smooth, fast, and intuitive!"
+u0831,2025-03-31T21:40:07,8,Decent experience but could improve.
+u0359,2025-03-01T20:59:38,7,Decent experience but could improve.
+u0184,2025-03-30T07:28:55,9,"Very smooth, fast, and intuitive!"
+u0349,2025-03-18T17:16:21,10,"Very smooth, fast, and intuitive!"
+u0942,2025-03-26T23:39:23,9,"Very smooth, fast, and intuitive!"
+u0742,2025-03-14T23:40:47,2,"Too slow, buggy or hard to navigate."
+u0472,2025-03-03T22:51:54,3,"Too slow, buggy or hard to navigate."
+u0639,2025-03-22T11:16:56,5,"Too slow, buggy or hard to navigate."
+u0931,2025-03-15T06:57:28,7,Decent experience but could improve.
+u0048,2025-03-31T07:35:45,8,Decent experience but could improve.
+u0492,2025-03-06T04:34:13,5,"Too slow, buggy or hard to navigate."
+u0835,2025-03-02T14:33:28,7,Decent experience but could improve.
+u0852,2025-03-24T07:16:50,5,"Too slow, buggy or hard to navigate."
+u0291,2025-03-21T08:09:47,5,"Too slow, buggy or hard to navigate."
+u0559,2025-03-30T20:50:34,3,"Too slow, buggy or hard to navigate."
+u0527,2025-03-20T13:37:02,4,"Too slow, buggy or hard to navigate."
+u0173,2025-03-22T08:14:23,3,"Too slow, buggy or hard to navigate."
+u0748,2025-03-09T03:49:36,4,"Too slow, buggy or hard to navigate."
+u0037,2025-03-01T08:34:42,9,"Very smooth, fast, and intuitive!"
+u0883,2025-03-26T09:25:20,4,"Too slow, buggy or hard to navigate."
+u0947,2025-03-24T12:58:01,10,"Very smooth, fast, and intuitive!"
+u0832,2025-03-12T12:34:03,8,Decent experience but could improve.
+u0928,2025-03-02T03:53:38,7,Decent experience but could improve.
+u0067,2025-03-09T12:16:20,4,"Too slow, buggy or hard to navigate."
+u0442,2025-03-07T02:03:23,8,Decent experience but could improve.
+u0113,2025-03-22T17:40:57,5,"Too slow, buggy or hard to navigate."
+u0054,2025-03-22T23:43:26,7,Decent experience but could improve.
+u0586,2025-03-21T07:56:57,10,"Very smooth, fast, and intuitive!"
+u0807,2025-03-25T01:52:33,6,"Too slow, buggy or hard to navigate."
+u0435,2025-03-01T06:20:55,9,"Very smooth, fast, and intuitive!"
+u0613,2025-03-05T21:33:16,5,"Too slow, buggy or hard to navigate."
+u0017,2025-03-01T01:59:19,6,"Too slow, buggy or hard to navigate."
+u0536,2025-03-22T16:02:43,10,"Very smooth, fast, and intuitive!"
+u0428,2025-03-15T08:49:39,5,"Too slow, buggy or hard to navigate."
+u0448,2025-03-16T15:47:09,10,"Very smooth, fast, and intuitive!"
+u0311,2025-03-11T13:35:20,8,Decent experience but could improve.
+u0952,2025-03-12T01:18:26,5,"Too slow, buggy or hard to navigate."
+u0766,2025-03-25T10:29:27,8,Decent experience but could improve.
+u0120,2025-03-29T11:08:20,9,"Very smooth, fast, and intuitive!"
+u0623,2025-03-24T14:19:17,8,Decent experience but could improve.
+u0985,2025-03-25T06:44:16,3,"Too slow, buggy or hard to navigate."
+u0916,2025-03-06T00:26:54,5,"Too slow, buggy or hard to navigate."
+u0450,2025-03-25T07:02:00,6,"Too slow, buggy or hard to navigate."
+u0433,2025-03-13T21:55:36,6,"Too slow, buggy or hard to navigate."
+u0584,2025-03-20T21:32:39,8,Decent experience but could improve.
+u0481,2025-03-11T17:15:19,7,Decent experience but could improve.
+u0166,2025-03-23T12:37:24,3,"Too slow, buggy or hard to navigate."
+u0140,2025-03-08T18:47:51,7,Decent experience but could improve.
+u0486,2025-03-02T23:20:24,8,Decent experience but could improve.
+u0091,2025-03-06T22:08:58,8,Decent experience but could improve.
+u0810,2025-03-19T21:35:43,9,"Very smooth, fast, and intuitive!"
+u0160,2025-03-04T06:45:58,9,"Very smooth, fast, and intuitive!"
+u0632,2025-03-21T00:46:58,8,Decent experience but could improve.
+u0266,2025-03-05T18:59:57,6,"Too slow, buggy or hard to navigate."
+u0365,2025-03-28T01:52:51,2,"Too slow, buggy or hard to navigate."
+u0859,2025-03-06T02:35:40,8,Decent experience but could improve.
+u0229,2025-03-08T06:15:58,7,Decent experience but could improve.
+u0791,2025-03-22T14:42:51,7,Decent experience but could improve.
+u0649,2025-03-09T00:15:07,3,"Too slow, buggy or hard to navigate."
+u0339,2025-03-03T03:52:41,4,"Too slow, buggy or hard to navigate."
+u0489,2025-03-13T15:11:19,9,"Very smooth, fast, and intuitive!"
+u0863,2025-03-05T18:42:23,6,"Too slow, buggy or hard to navigate."
+u0401,2025-03-20T05:29:02,8,Decent experience but could improve.
+u0896,2025-03-15T20:50:25,7,Decent experience but could improve.
+u0210,2025-03-21T08:48:16,7,Decent experience but could improve.
