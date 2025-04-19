@@ -10,7 +10,7 @@ from sklearn.preprocessing import LabelEncoder
 st.title("Clickstream-Based NPS Prediction Dashboard")
 
 # Upload CSV file
-uploaded_file = st.file_uploader("Upload preprocessed feature CSV (with NPS category). If trying out get the preprocessed user_features dataset @ ", type="csv")
+uploaded_file = st.file_uploader("Upload preprocessed feature CSV (with NPS category). If trying out get the preprocessed user_features dataset @ https://github.com/gcharith/Clickstream-NPS-Analysis", type="csv")
 
 if uploaded_file is not None:
     df = pd.read_csv(uploaded_file)
